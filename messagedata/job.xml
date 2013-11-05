@@ -1,0 +1,93 @@
+<?xml version='1.0'?>
+<MusicDatabase>
+  <Artists>
+    <Artist id="Artist_1">
+       <Name>Ron Hindt</Name>
+    </Artist>
+  </Artists>
+  <Albums>
+    <Album id="Album_76">
+       <PerformingArtist id="0">Ron Hindt</PerformingArtist>
+       <Name>Job</Name>
+    </Album>
+  </Albums>
+  <Songs>
+    <Song id="Song_466">
+       <Title>Job 1-5</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_76">Job</ContainedInAlbum>
+       <SongLength ms="2986579">49:46</SongLength>
+       <Bitrate>48000</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\Job\01 Job 1-5.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_467">
+       <Title>Job 6-12</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_76">Job</ContainedInAlbum>
+       <SongLength ms="3059618">50:59</SongLength>
+       <Bitrate>48000</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\Job\02 Job 6-12.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_468">
+       <Title>Job 13-19</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_76">Job</ContainedInAlbum>
+       <SongLength ms="2938096">48:58</SongLength>
+       <Bitrate>48000</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\Job\03 Job 13-19.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_469">
+       <Title>Job 20-26</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_76">Job</ContainedInAlbum>
+       <SongLength ms="3060871">51:00</SongLength>
+       <Bitrate>48000</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\Job\04 Job 20-26.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_470">
+       <Title>Job 27-31</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_76">Job</ContainedInAlbum>
+       <SongLength ms="3030204">50:30</SongLength>
+       <Bitrate>48000</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\Job\05 Job 27-31.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_471">
+       <Title>Job 32-37</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_76">Job</ContainedInAlbum>
+       <SongLength ms="2816627">46:56</SongLength>
+       <Bitrate>48000</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\Job\06 Job 32-37.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_472">
+       <Title>Job 38-42</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_76">Job</ContainedInAlbum>
+       <SongLength ms="3124558">52:04</SongLength>
+       <Bitrate>48000</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\Job\07 Job 38-42.mp3</Path>
+       </Location>
+    </Song>
+  </Songs>
+</MusicDatabase>

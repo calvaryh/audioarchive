@@ -1,0 +1,11 @@
+<?xml version='1.0'?>
+<MusicDatabase>
+  <Artists>
+    <Artist id="Artist_1">
+       <Name>Ron Hindt</Name>
+    </Artist>
+    <Artist id="Artist_0">
+       <Name></Name>
+    </Artist>
+  </Artists>
+</MusicDatabase>

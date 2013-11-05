@@ -1,0 +1,498 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+ <sites>
+   <site id="1">
+     <title>Genesis</title>
+     <path>genesis.xml</path>
+     <shelfname>oldtestament</shelfname>
+     <imagepath>images/genesis_medium.jpg</imagepath>
+     <briefdesc>Origens</briefdesc>
+     <longdesc>In the Beginning God created the Heavens and the Earth.</longdesc>
+     <messagecount>20</messagecount>
+   </site>
+   <site id="2">
+     <title>Exodus</title>
+     <path>exodus.xml</path>
+     <shelfname>oldtestament</shelfname>
+	   <imagepath>images/exodus_medium.jpg</imagepath>
+     <briefdesc>Deliverance</briefdesc>
+     <longdesc>The People of Israel cried out to the Lord to be freed from slavery under Pharoah. The Book of Exodus records God’s answer through Moses.</longdesc>
+     <messagecount>13</messagecount>
+   </site>
+   <site id="3">
+     <title>Leviticus</title>
+     <path>leviticus.xml</path>
+     <shelfname>oldtestament</shelfname>
+	    <imagepath>images/leviticus_medium.jpg</imagepath>
+     <briefdesc>Altar</briefdesc>
+     <longdesc>Book of instruction for all of God’s people to come before His ALTAR and worship</longdesc>
+     <messagecount>6</messagecount>
+   </site>
+    <site id="4">
+     <title>Numbers</title>
+      <path>numbers.xml</path>
+      <shelfname>oldtestament</shelfname>
+	   <imagepath>images/numbers_medium.jpg</imagepath>
+     <briefdesc>numbers </briefdesc>
+     <longdesc>God NUMBERS His people before they enter the wilderness.</longdesc>
+      <messagecount>10</messagecount>
+   </site>
+   <site id="5">
+     <title>Deuteronomy</title>
+     <path>deuteronomy.xml</path>
+     <shelfname>oldtestament</shelfname>
+     <imagepath>images/deuteronomy_medium.jpg</imagepath>
+     <briefdesc>Final Instructions</briefdesc>
+     <longdesc>Moses's FINAL INSTRUCTIONS before inhabiting the land.</longdesc>
+     <messagecount>11</messagecount>
+   </site>
+   <site id="6">
+     <title>Joshua</title>
+     <path>joshua.xml</path>
+     <shelfname>oldtestament</shelfname>
+	   <imagepath>images/joshua_medium.jpg</imagepath>
+     <briefdesc>MapQuest</briefdesc>
+     <longdesc>Chronicles the MAP QUEST to fulfill God’s promise.</longdesc>
+     <messagecount>7</messagecount>
+   </site>
+   <site id="7">
+     <title>Judges</title>
+     <path>judges.xml</path>
+     <shelfname>oldtestament</shelfname>
+	    <imagepath>images/judges_medium.jpg</imagepath>
+     <briefdesc>The Good, the Bad, the Ugly</briefdesc>
+     <longdesc>THE GOOD, THE BAD AND THE UGLY of Israel's relationship with God.</longdesc>
+     <messagecount>7</messagecount>
+   </site>
+    <site id="8">
+     <title>Ruth</title>
+      <path>ruth.xml</path>
+      <shelfname>oldtestament</shelfname>
+	   <imagepath>images/ruth_medium.jpg</imagepath>
+     <briefdesc>Redeemed</briefdesc>
+     <longdesc>Redeemed, overview of the Book of Ruth.</longdesc>
+      <messagecount>5</messagecount>
+   </site>
+   <site id="9">
+     <title>1 Samuel</title>
+     <path>1samuel.xml</path>
+     <shelfname>oldtestament</shelfname>
+     <imagepath>images/1samuel_medium.jpg</imagepath>
+     <briefdesc>A Tale of Two Shepherds</briefdesc>
+     <longdesc>Two distinct kings, one chosen by people and one chosen by God.</longdesc>
+     <messagecount>11</messagecount>
+   </site>
+   <site id="10">
+     <title>2 Samuel</title>
+     <path>2samuel.xml</path>
+     <shelfname>oldtestament</shelfname>
+	   <imagepath>images/2samuel_medium.jpg</imagepath>
+     <briefdesc>God's Heart</briefdesc>
+     <longdesc>King David, a Man after God's Heart.</longdesc>
+     <messagecount>8</messagecount>
+   </site>
+   <site id="11">
+     <title>1 Kings</title>
+     <path>1kings.xml</path>
+     <shelfname>oldtestament</shelfname>
+	    <imagepath>images/1kings_medium.jpg</imagepath>
+     <briefdesc>Divided</briefdesc>
+     <longdesc>Israel becomes a nation DIVIDED.</longdesc>
+     <messagecount>6</messagecount>
+   </site>
+    <site id="12">
+     <title>2 Kings</title>
+      <path>2kings.xml</path>
+      <shelfname>oldtestament</shelfname>
+	   <imagepath>images/2kings_medium.jpg</imagepath>
+     <briefdesc>Deported</briefdesc>
+     <longdesc>Assyria and Babylon draw closer to invasion of Israel.</longdesc>
+      <messagecount>6</messagecount>
+   </site>
+   <site id="13">
+     <title>1 Chronicles</title>
+     <path>1chronicles.xml</path>
+     <shelfname>oldtestament</shelfname>
+     <imagepath>images/1chron_medium.jpg</imagepath>
+     <briefdesc>Reign Part 1</briefdesc>
+     <longdesc>History of Judahs Kings, beginning with Solomon.</longdesc>
+     <messagecount>4</messagecount>
+   </site>
+   <site id="14">
+     <title>2 Chronicles</title>
+     <path>2chronicles.xml</path>
+     <shelfname>oldtestament</shelfname>
+	   <imagepath>images/2chron_medium.jpg</imagepath>
+     <briefdesc>Reign Part 2</briefdesc>
+     <longdesc>History of Judahs Kings, beginning with Solomon.</longdesc>
+     <messagecount>8</messagecount>
+   </site>
+   <site id="15">
+     <title>Ezra</title>
+     <path>ezra.xml</path>
+     <shelfname>oldtestament</shelfname>
+	    <imagepath>images/ezra_medium.jpg</imagepath>
+     <briefdesc>Homecoming</briefdesc>
+     <longdesc>Ezra's return to the land of his people.</longdesc>
+     <messagecount>2</messagecount>
+   </site>
+    <site id="16">
+     <title>Nehemiah</title>
+      <path>nehemiah.xml</path>
+      <shelfname>oldtestament</shelfname>
+	   <imagepath>images/nehemiah_overview_medium.jpg</imagepath>
+     <briefdesc>Building and Battling</briefdesc>
+     <longdesc>Nehemiah finds himself BUILDING AND BATTLING.</longdesc>
+      <messagecount>3</messagecount>
+   </site>
+   <site id="17">
+     <title>Esther</title>
+     <path>esther.xml</path>
+     <shelfname>oldtestament</shelfname>
+     <imagepath>images/esther_medium.jpg</imagepath>
+     <briefdesc>Providence</briefdesc>
+     <longdesc>Jewish Queen in a foreign land, Providence.</longdesc>
+     <messagecount>2</messagecount>
+   </site>
+   <site id="18">
+     <title>Job</title>
+     <path>job.xml</path>
+     <shelfname>oldtestament</shelfname>
+	   <imagepath>images/job_medium.jpg</imagepath>
+     <briefdesc>Why?</briefdesc>
+     <longdesc>Why would God allow this to happen?.</longdesc>
+     <messagecount>7</messagecount>
+   </site>
+   <site id="19">
+     <title>Psalms</title>
+     <path>psalms.xml</path>
+     <shelfname>oldtestament</shelfname>
+	    <imagepath>images/psalms_medium.jpg</imagepath>
+     <briefdesc>Sing!</briefdesc>
+     <longdesc>Worship and lament, joy and heartbreak fill the Psalms.</longdesc>
+     <messagecount>23</messagecount>
+   </site>
+    <site id="20">
+     <title>Proverbs</title>
+      <path>proverbs.xml</path>
+      <shelfname>oldtestament</shelfname>
+	   <imagepath>images/proverbs_medium.jpg</imagepath>
+     <briefdesc>Wise Up</briefdesc>
+     <longdesc>We need to seek true wisdom from God and WISE UP.</longdesc>
+      <messagecount>6</messagecount>
+   </site>
+   <site id="21">
+     <title>Ecclesiastes</title>
+     <path>ecclesiastes.xml</path>
+     <shelfname>oldtestament</shelfname>
+     <imagepath>images/ecclesiastes_medium.jpg</imagepath>
+     <briefdesc>Searching for Significance</briefdesc>
+     <longdesc>Searching for Significance.</longdesc>
+     <messagecount>2</messagecount>
+   </site>
+   <site id="22">
+     <title>Song of Solomon</title>
+     <path>songofsolomon.xml</path>
+     <shelfname>oldtestament</shelfname>
+	   <imagepath>images/songofsolomon_medium.jpg</imagepath>
+     <briefdesc>Love Song</briefdesc>
+     <longdesc>Love Song.</longdesc>
+     <messagecount>1</messagecount>
+   </site>
+   <site id="23">
+     <title>Isaiah</title>
+     <path>isaiah.xml</path>
+     <shelfname>oldtestament</shelfname>
+	    <imagepath>images/isaiah_medium.jpg</imagepath>
+     <briefdesc>Hope</briefdesc>
+     <longdesc>Detail Study of Isaiah and HOPE.</longdesc>
+     <messagecount>13</messagecount>
+   </site>
+    <site id="24">
+     <title>Jeremiah</title>
+      <path>jeremiah.xml</path>
+      <shelfname>oldtestament</shelfname>
+	   <imagepath>images/jeremiah_1_medium.jpg</imagepath>
+     <briefdesc>Captive</briefdesc>
+     <longdesc>Overview of the book of Jeremiah.</longdesc>
+      <messagecount>10</messagecount>
+   </site>
+   <site id="25">
+     <title>Lamentations</title>
+     <path>lamentations.xml</path>
+     <shelfname>oldtestament</shelfname>
+     <imagepath>images/lamentations_medium.jpg</imagepath>
+     <briefdesc>Broken</briefdesc>
+     <longdesc>Broken.</longdesc>
+     <messagecount>1</messagecount>
+   </site>
+   <site id="26">
+     <title>Ezekiel</title>
+     <path>ezekiel.xml</path>
+     <shelfname>oldtestament</shelfname>
+	   <imagepath>images/ezekiel_medium.jpg</imagepath>
+     <briefdesc>Ezekiel</briefdesc>
+     <longdesc>Ezekiel.</longdesc>
+     <messagecount>9</messagecount>
+   </site>
+   <site id="27">
+     <title>Daniel</title>
+     <path>daniel.xml</path>
+     <shelfname>oldtestament</shelfname>
+	    <imagepath>images/daniel_medium.jpg</imagepath>
+     <briefdesc>Destiny</briefdesc>
+     <longdesc>Destiny of a follower of the one true God.</longdesc>
+     <messagecount>4</messagecount>
+   </site>
+    <site id="28">
+     <title>Minor Prophets</title>
+      <path>minorprophets.xml</path>
+      <shelfname>oldtestament</shelfname>
+	   <imagepath>images/minor_prophets_medium.jpg</imagepath>
+     <briefdesc>Minor Prophets</briefdesc>
+     <longdesc>This includes Hosea, Joel, Amos, Obadiah, Jonah, Micah, Nahum, Habakkuk, Zephaniah, Haggai, Zecharaiah, and Malachi.</longdesc>
+      <messagecount>12</messagecount>
+   </site>
+   <site id="91">
+     <title>Matthew</title>
+     <path>matthew.xml</path>
+     <shelfname>newtestament</shelfname>
+     <imagepath>images/matthew_medium.jpg</imagepath>
+     <briefdesc></briefdesc>
+     <longdesc>Current Sunday Teaching ...(Not Available)</longdesc>
+     <messagecount>0</messagecount>
+   </site>
+   <site id="92">
+     <title>Mark</title>
+     <path>mark.xml</path>
+     <shelfname>newtestament</shelfname>
+     <imagepath>images/mark_medium.jpg</imagepath>
+     <briefdesc>Tapestry</briefdesc>
+     <longdesc>In Depth study of the Book of Mark</longdesc>
+     <messagecount>39</messagecount>
+   </site>
+   <site id="93">
+     <title>Luke</title>
+     <path>luke.xml</path>
+     <shelfname>newtestament</shelfname>
+     <imagepath>images/luke_medium.jpg</imagepath>
+     <briefdesc>Journey</briefdesc>
+     <longdesc>A look at the life of Jesus through the eyes of a Physician</longdesc>
+     <messagecount>70</messagecount>
+   </site>
+   <site id="94">
+     <title>John</title>
+     <path>john.xml</path>
+     <shelfname>newtestament</shelfname>
+     <imagepath>images/john_medium.jpg</imagepath>
+     <briefdesc>Identity</briefdesc>
+     <longdesc>The Deity of Jesus Christ.</longdesc>
+     <messagecount>74</messagecount>
+   </site>
+   <site id="95">
+     <title>Acts</title>
+     <path>acts.xml</path>
+     <shelfname>newtestament</shelfname>
+     <imagepath>images/acts_medium.jpg</imagepath>
+     <briefdesc>Shift</briefdesc>
+     <longdesc>The Acts of the Holy Spirit thru the Church.</longdesc>
+     <messagecount>54</messagecount>
+   </site>
+   <site id="96">
+     <title>Romans</title>
+     <path>romans.xml</path>
+     <shelfname>newtestament</shelfname>
+     <imagepath>images/romans_medium.jpg</imagepath>
+     <briefdesc>Foundations</briefdesc>
+     <longdesc>The Book of Romans a Foundation.</longdesc>
+     <messagecount>47</messagecount>
+   </site>
+   <site id="97">
+     <title>1 Corinthians</title>
+     <path>1corinthians.xml</path>
+     <shelfname>newtestament</shelfname>
+     <imagepath>images/1_cor_medium.jpg</imagepath>
+     <briefdesc>Life Rules</briefdesc>
+     <longdesc>We learn a lot about LIFE RULES for the church.</longdesc>
+     <messagecount>50</messagecount>
+   </site>
+   <site id="98">
+     <title>2 Corinthians</title>
+     <path>2corinthians.xml</path>
+     <shelfname>newtestament</shelfname>
+     <imagepath>images/2_corinthians_medium.jpg</imagepath>
+     <briefdesc>Comfort</briefdesc>
+     <longdesc>Second Letter to the church in Corinth.</longdesc>
+     <messagecount>17</messagecount>
+   </site>
+   <site id="99">
+     <title>Galatians</title>
+     <path>galatians.xml</path>
+     <shelfname>newtestament</shelfname>
+     <imagepath>images/galatians_medium.jpg</imagepath>
+     <briefdesc>Liberty</briefdesc>
+     <longdesc>We find true Liberty in Christ who has freed us from sin and death.</longdesc>
+     <messagecount>22</messagecount>
+   </site>
+   <site id="110">
+     <title>Ephesians</title>
+     <path>ephesians.xml</path>
+     <shelfname>newtestament</shelfname>
+     <imagepath>images/ephesians_medium.jpg</imagepath>
+     <briefdesc>Fullness</briefdesc>
+     <longdesc>Current Wednesday Night Teaching... (Not Available)</longdesc>
+     <messagecount>0</messagecount>
+   </site>
+   <site id="112">
+     <title>Philippians</title>
+     <path>philippians.xml</path>
+     <shelfname>newtestament</shelfname>
+     <imagepath>images/philippians_medium.png</imagepath>
+     <briefdesc>Joy</briefdesc>
+     <longdesc>Apostle Paul reminds us that in Christ we can rejoice at all times.</longdesc>
+     <messagecount>22</messagecount>
+   </site>
+   <site id="113">
+     <title>Colossians</title>
+     <path>colossians.xml</path>
+     <shelfname>newtestament</shelfname>
+     <imagepath>images/colossians_medium.jpg</imagepath>
+     <briefdesc>Elements</briefdesc>
+     <longdesc>The book of Colossians.</longdesc>
+     <messagecount>19</messagecount>
+   </site>
+   <site id="114">
+     <title>1 Thessalonians</title>
+     <path>1thessalonians.xml</path>
+     <shelfname>newtestament</shelfname>
+     <imagepath>images/1_thess_medium.jpg</imagepath>
+     <briefdesc>Ignite</briefdesc>
+     <longdesc>Ignite.</longdesc>
+     <messagecount>12</messagecount>
+   </site>
+   <site id="115">
+     <title>2 Thessalonians</title>
+     <path>2thessalonians.xml</path>
+     <shelfname>newtestament</shelfname>
+     <imagepath>images/2_thess_medium.jpg</imagepath>
+     <briefdesc>Firm Faith</briefdesc>
+     <longdesc>Firm Faith.</longdesc>
+     <messagecount>5</messagecount>
+   </site>
+   <site id="116">
+     <title>1 Timothy</title>
+     <path>1timothy.xml</path>
+     <shelfname>newtestament</shelfname>
+     <imagepath>images/1_tim_medium.jpg</imagepath>
+     <briefdesc>Blueprint</briefdesc>
+     <longdesc>Exploring the book of 1 Timothy.</longdesc>
+     <messagecount>28</messagecount>
+   </site>
+   <site id="117">
+     <title>2 Timothy</title>
+     <path>2timothy.xml</path>
+     <shelfname>newtestament</shelfname>
+     <imagepath>images/2_tim_medium.jpg</imagepath>
+     <briefdesc>Steadfast</briefdesc>
+     <longdesc>Steadfast exploring the book of 2 Timothy.</longdesc>
+     <messagecount>14</messagecount>
+   </site>
+   <site id="118">
+     <title>Titus</title>
+     <path>titus.xml</path>
+     <shelfname>newtestament</shelfname>
+     <imagepath>images/titus_medium.jpg</imagepath>
+     <briefdesc>Vital Signs</briefdesc>
+     <longdesc>Exploring the book of Titus.</longdesc>
+     <messagecount>6</messagecount>
+   </site>
+   <site id="119">
+     <title>Philemon</title>
+     <path>philemon.xml</path>
+     <shelfname>newtestament</shelfname>
+     <imagepath>images/philemon_medium.jpg</imagepath>
+     <briefdesc>Forgiveness</briefdesc>
+     <longdesc>Exploring the book of Philemon.</longdesc>
+     <messagecount>4</messagecount>
+   </site>
+   <site id="120">
+     <title>Hebrews</title>
+     <path>hebrews.xml</path>
+     <shelfname>newtestament</shelfname>
+     <imagepath>images/hebrews_medium.jpg</imagepath>
+     <briefdesc>Anchor</briefdesc>
+     <longdesc>Exploring the book of Hebrews.</longdesc>
+     <messagecount>38</messagecount>
+   </site>
+   <site id="121">
+     <title>James</title>
+     <path>james.xml</path>
+     <shelfname>newtestament</shelfname>
+     <imagepath>images/james_medium.jpg</imagepath>
+     <briefdesc>Core</briefdesc>
+     <longdesc>The book of James, from the half brother of Jesus.</longdesc>
+     <messagecount>13</messagecount>
+   </site>
+   <site id="123">
+     <title>1 Peter</title>
+     <path>1peter.xml</path>
+     <shelfname>newtestament</shelfname>
+     <imagepath>images/1_peter_medium.jpg</imagepath>
+     <briefdesc>Passport</briefdesc>
+     <longdesc>Through faith in Jesus Christ we possess a PASSPORT into heaven that cannot be stolen or revoked.</longdesc>
+     <messagecount>14</messagecount>
+   </site>
+   <site id="124">
+     <title>2 Peter</title>
+     <path>2peter.xml</path>
+     <shelfname>newtestament</shelfname>
+     <imagepath>images/2_peter_medium.jpg</imagepath>
+     <briefdesc>Be Growing</briefdesc>
+     <longdesc>Peter exhorts us to BEWARE of false teachers and to BE GROWING in God's Word.</longdesc>
+     <messagecount>6</messagecount>
+   </site>
+   <site id="125">
+     <title>1 John</title>
+     <path>1john.xml</path>
+     <shelfname>newtestament</shelfname>
+     <imagepath>images/1_john_medium.jpg</imagepath>
+     <briefdesc>Get Real</briefdesc>
+     <longdesc>We are challenged to examine ourselves to determine where we are with Christ and make adjustments.</longdesc>
+     <messagecount>9</messagecount>
+   </site>
+   <site id="126">
+     <title>2 John</title>
+     <path>2john.xml</path>
+     <shelfname>newtestament</shelfname>
+     <imagepath>images/2_john_medium.jpg</imagepath>
+     <briefdesc>Walk</briefdesc>
+     <longdesc>Exploring the book of 2 John.</longdesc>
+     <messagecount>1</messagecount>
+   </site>
+   <site id="127">
+     <title>3 John</title>
+     <path>3john.xml</path>
+     <shelfname>newtestament</shelfname>
+     <imagepath>images/3_john_medium.jpg</imagepath>
+     <briefdesc>Follow</briefdesc>
+     <longdesc>Exploring the book of 3 John.</longdesc>
+     <messagecount>1</messagecount>
+   </site>
+   <site id="128">
+     <title>Jude</title>
+     <path>jude.xml</path>
+     <shelfname>newtestament</shelfname>
+     <imagepath>images/jude_medium.jpg</imagepath>
+     <briefdesc>The Contender</briefdesc>
+     <longdesc>Exploring the book of Jude.</longdesc>
+     <messagecount>1</messagecount>
+   </site>
+   <site id="129">
+     <title>Revelation</title>
+     <path>revelation.xml</path>
+     <shelfname>newtestament</shelfname>
+     <imagepath>images/revelation_medium.jpg</imagepath>
+     <briefdesc>[a.po.ca.lypse]</briefdesc>
+     <longdesc>Exploring the book of Revelation as seen by the apostle John.</longdesc>
+     <messagecount>32</messagecount>
+   </site>
+ </sites>

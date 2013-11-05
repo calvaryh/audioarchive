@@ -1,0 +1,170 @@
+<?xml version='1.0'?>
+<MusicDatabase>
+  <Artists>
+    <Artist id="Artist_1">
+       <Name>Ron Hindt</Name>
+    </Artist>
+  </Artists>
+  <Albums>
+    <Album id="Album_30">
+       <PerformingArtist id="0">Ron Hindt</PerformingArtist>
+       <Name>2 Timothy</Name>
+    </Album>
+  </Albums>
+  <Songs>
+    <Song id="Song_172">
+       <Title>2 Timothy 1:1-5</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_30">2 Timothy</ContainedInAlbum>
+       <SongLength ms="2889404">48:09</SongLength>
+       <Bitrate>34635</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\2 Timothy\01 2 Timothy 1_1-5.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_173">
+       <Title>2 Timothy 1:6-10</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_30">2 Timothy</ContainedInAlbum>
+       <SongLength ms="2817149">46:57</SongLength>
+       <Bitrate>34362</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\2 Timothy\02 2 Timothy 1_6-10.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_174">
+       <Title>2 Timothy 1:11-18</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_30">2 Timothy</ContainedInAlbum>
+       <SongLength ms="2766262">46:06</SongLength>
+       <Bitrate>34124</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\2 Timothy\03 2 Timothy 1_11-18.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_175">
+       <Title>2 Timothy 2:1-7</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_30">2 Timothy</ContainedInAlbum>
+       <SongLength ms="2834755">47:14</SongLength>
+       <Bitrate>34697</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\2 Timothy\04 2 Timothy 2_1-7.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_176">
+       <Title>2 Timothy 2:8-13</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_30">2 Timothy</ContainedInAlbum>
+       <SongLength ms="2813074">46:53</SongLength>
+       <Bitrate>34605</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\2 Timothy\05 2 Timothy 2_8-13.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_177">
+       <Title>2 Timothy 2:14-19</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_30">2 Timothy</ContainedInAlbum>
+       <SongLength ms="2984176">49:44</SongLength>
+       <Bitrate>35140</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\2 Timothy\06 2 Timothy 2_14-19.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_178">
+       <Title>2 Timothy 2:20-26</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_30">2 Timothy</ContainedInAlbum>
+       <SongLength ms="2832039">47:12</SongLength>
+       <Bitrate>34766</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\2 Timothy\07 2 Timothy 2_20-26.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_179">
+       <Title>2 Timothy 3:1-9</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_30">2 Timothy</ContainedInAlbum>
+       <SongLength ms="2988512">49:48</SongLength>
+       <Bitrate>34837</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\2 Timothy\08 2 Timothy 3_1-9.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_180">
+       <Title>2 Timothy 3:10-15</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_30">2 Timothy</ContainedInAlbum>
+       <SongLength ms="2927020">48:47</SongLength>
+       <Bitrate>34922</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\2 Timothy\09 2 Timothy 3_10-15.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_181">
+       <Title>2 Timothy 3:16a</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_30">2 Timothy</ContainedInAlbum>
+       <SongLength ms="2981459">49:41</SongLength>
+       <Bitrate>34927</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\2 Timothy\10 2 Timothy 3_16a.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_182">
+       <Title>2 Timothy 3:16b-17</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_30">2 Timothy</ContainedInAlbum>
+       <SongLength ms="2876342">47:56</SongLength>
+       <Bitrate>34989</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\2 Timothy\11 2 Timothy 3_16b-17.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_183">
+       <Title>2 Timothy 4:1-5</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_30">2 Timothy</ContainedInAlbum>
+       <SongLength ms="2733348">45:33</SongLength>
+       <Bitrate>34566</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\2 Timothy\12 2 Timothy 4_1-5.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_184">
+       <Title>2 Timothy 4:6-8</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_30">2 Timothy</ContainedInAlbum>
+       <SongLength ms="2775771">46:15</SongLength>
+       <Bitrate>34735</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\2 Timothy\13 2 Timothy 4_6-8.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_185">
+       <Title>2 Timothy 4:9-22</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_30">2 Timothy</ContainedInAlbum>
+       <SongLength ms="3088457">51:28</SongLength>
+       <Bitrate>34858</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\2 Timothy\14 2 Timothy 4_9-22.mp3</Path>
+       </Location>
+    </Song>
+  </Songs>
+</MusicDatabase>

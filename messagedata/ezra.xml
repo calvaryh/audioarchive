@@ -1,0 +1,38 @@
+<?xml version='1.0'?>
+<MusicDatabase>
+  <Artists>
+    <Artist id="Artist_1">
+       <Name>Ron Hindt</Name>
+    </Artist>
+  </Artists>
+  <Albums>
+    <Album id="Album_60">
+       <PerformingArtist id="0">Ron Hindt</PerformingArtist>
+       <Name>Ezra</Name>
+    </Album>
+  </Albums>
+  <Songs>
+    <Song id="Song_350">
+       <Title>Ezra 1-5</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_60">Ezra</ContainedInAlbum>
+       <SongLength ms="3121214">52:01</SongLength>
+       <Bitrate>35025</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\Ezra\01 Ezra 1-5.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_351">
+       <Title>Ezra 6-10</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_60">Ezra</ContainedInAlbum>
+       <SongLength ms="3194096">53:14</SongLength>
+       <Bitrate>34922</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\Ezra\01 Ezra 6-10.mp3</Path>
+       </Location>
+    </Song>
+  </Songs>
+</MusicDatabase>

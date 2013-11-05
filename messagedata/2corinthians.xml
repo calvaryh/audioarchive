@@ -1,0 +1,203 @@
+<?xml version='1.0'?>
+<MusicDatabase>
+  <Artists>
+    <Artist id="Artist_1">
+       <Name>Ron Hindt</Name>
+    </Artist>
+  </Artists>
+  <Albums>
+    <Album id="Album_18">
+       <PerformingArtist id="0">Ron Hindt</PerformingArtist>
+       <Name>2 Corinthians</Name>
+    </Album>
+  </Albums>
+  <Songs>
+    <Song id="Song_129">
+       <Title>2 Corinthians 1:1-7</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_18">2 Corinthians</ContainedInAlbum>
+       <SongLength ms="2579330">42:59</SongLength>
+       <Bitrate>35319</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\2 Corinthians\01 2 Corinthians 1_1-7.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_130">
+       <Title>2 Corinthians 1:8-24</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_18">2 Corinthians</ContainedInAlbum>
+       <SongLength ms="2566112">42:46</SongLength>
+       <Bitrate>35439</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\2 Corinthians\02 2 Corinthians 1_8-24.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_131">
+       <Title>2 Corinthians 2:1-17</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_18">2 Corinthians</ContainedInAlbum>
+       <SongLength ms="2529750">42:09</SongLength>
+       <Bitrate>35807</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\2 Corinthians\03 2 Corinthians 2_1-17.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_132">
+       <Title>2 Corinthians 3:1-18</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_18">2 Corinthians</ContainedInAlbum>
+       <SongLength ms="2576248">42:56</SongLength>
+       <Bitrate>35722</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\2 Corinthians\04 2 Corinthians 3_1-18.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_133">
+       <Title>2 Corinthians 4:1-18</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_18">2 Corinthians</ContainedInAlbum>
+       <SongLength ms="2675617">44:35</SongLength>
+       <Bitrate>35662</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\2 Corinthians\05 2 Corinthians 4_1-18.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_134">
+       <Title>2 Corinthians 5:1-8</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_18">2 Corinthians</ContainedInAlbum>
+       <SongLength ms="2727235">45:27</SongLength>
+       <Bitrate>35973</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\2 Corinthians\06 2 Corinthians 5_1-8.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_135">
+       <Title>2 Corinthians 5:9-21</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_18">2 Corinthians</ContainedInAlbum>
+       <SongLength ms="2683454">44:43</SongLength>
+       <Bitrate>35733</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\2 Corinthians\07 2 Corinthians 5_9-21.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_136">
+       <Title>2 Corinthians 6:1-18</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_18">2 Corinthians</ContainedInAlbum>
+       <SongLength ms="2558328">42:38</SongLength>
+       <Bitrate>35864</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\2 Corinthians\08 2 Corinthians 6_1-18.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_137">
+       <Title>2 Corinthians 7:1-16</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_18">2 Corinthians</ContainedInAlbum>
+       <SongLength ms="2504881">41:44</SongLength>
+       <Bitrate>35905</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\2 Corinthians\09 2 Corinthians 7_1-16.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_138">
+       <Title>2 Corinthians 8:1-24</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_18">2 Corinthians</ContainedInAlbum>
+       <SongLength ms="2624052">43:44</SongLength>
+       <Bitrate>35931</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\2 Corinthians\10 2 Corinthians 8_1-24.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_139">
+       <Title>2 Corinthians 9:1-15</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_18">2 Corinthians</ContainedInAlbum>
+       <SongLength ms="2529332">42:09</SongLength>
+       <Bitrate>35763</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\2 Corinthians\11 2 Corinthians 9_1-15.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_140">
+       <Title>2 Corinthians 10:1-6</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_18">2 Corinthians</ContainedInAlbum>
+       <SongLength ms="2659004">44:19</SongLength>
+       <Bitrate>35820</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\2 Corinthians\12 2 Corinthians 10_1-6.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_141">
+       <Title>2 Corinthians 10:7-18</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_18">2 Corinthians</ContainedInAlbum>
+       <SongLength ms="2414288">40:14</SongLength>
+       <Bitrate>35779</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\2 Corinthians\13 2 Corinthians 10_7-18.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_142">
+       <Title>2 Corinthians 11:1-15</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_18">2 Corinthians</ContainedInAlbum>
+       <SongLength ms="2429178">40:29</SongLength>
+       <Bitrate>35784</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\2 Corinthians\14 2 Corinthians 11_1-15.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_143">
+       <Title>2 Corinthians 11:16-33</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_18">2 Corinthians</ContainedInAlbum>
+       <SongLength ms="2740192">45:40</SongLength>
+       <Bitrate>35113</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\2 Corinthians\15 2 Corinthians 11_16-33.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_144">
+       <Title>2 Corinthians 12:1-21</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_18">2 Corinthians</ContainedInAlbum>
+       <SongLength ms="2619663">43:39</SongLength>
+       <Bitrate>35784</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\2 Corinthians\16 2 Corinthians 12_1-21.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_145">
+       <Title>2 Corinthians 13:1-14</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_18">2 Corinthians</ContainedInAlbum>
+       <SongLength ms="2741080">45:41</SongLength>
+       <Bitrate>35642</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\2 Corinthians\17 2 Corinthians 13_1-14.mp3</Path>
+       </Location>
+    </Song>
+  </Songs>
+</MusicDatabase>

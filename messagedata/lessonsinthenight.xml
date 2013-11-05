@@ -1,0 +1,27 @@
+<?xml version='1.0'?>
+<MusicDatabase>
+  <Artists>
+    <Artist id="Artist_1">
+       <Name>Ron Hindt</Name>
+    </Artist>
+  </Artists>
+  <Albums>
+    <Album id="Album_88">
+       <PerformingArtist id="0">Ron Hindt</PerformingArtist>
+       <Name>Lessons in the Night</Name>
+    </Album>
+  </Albums>
+  <Songs>
+    <Song id="Song_563">
+       <Title>Lessons in the Night</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_88">Lessons in the Night</ContainedInAlbum>
+       <SongLength ms="2978899">49:38</SongLength>
+       <Bitrate>48000</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>D:\projects\personal\bible study\RonHindt\Lessons in the Night\01 Lessons in the Night.mp3</Path>
+       </Location>
+    </Song>
+  </Songs>
+</MusicDatabase>

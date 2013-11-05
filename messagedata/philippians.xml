@@ -1,0 +1,258 @@
+<?xml version='1.0'?>
+<MusicDatabase>
+  <Artists>
+    <Artist id="Artist_1">
+       <Name>Ron Hindt</Name>
+    </Artist>
+  </Artists>
+  <Albums>
+    <Album id="Album_104">
+       <PerformingArtist id="0">Ron Hindt</PerformingArtist>
+       <Name>Philippians</Name>
+    </Album>
+  </Albums>
+  <Songs>
+    <Song id="Song_667">
+       <Title>Philippians 1:1-2</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_104">Philippians</ContainedInAlbum>
+       <SongLength ms="2718040">45:18</SongLength>
+       <Bitrate>50581</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\Philippians\01 Philippians 1_1-2.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_668">
+       <Title>Philippians 1:3-8</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_104">Philippians</ContainedInAlbum>
+       <SongLength ms="2739879">45:39</SongLength>
+       <Bitrate>50542</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\Philippians\02 Philippians 1_3-8.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_669">
+       <Title>Philippians 1:9-11</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_104">Philippians</ContainedInAlbum>
+       <SongLength ms="2927804">48:47</SongLength>
+       <Bitrate>50680</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\Philippians\03 Philippians 1_9-11.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_670">
+       <Title>Philippians 1:12-18</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_104">Philippians</ContainedInAlbum>
+       <SongLength ms="3067872">51:07</SongLength>
+       <Bitrate>50666</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\Philippians\04 Philippians 1_12-18.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_671">
+       <Title>Philippians 1:19-26</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_104">Philippians</ContainedInAlbum>
+       <SongLength ms="2367477">39:27</SongLength>
+       <Bitrate>50481</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\Philippians\05 Philippians 1_19-26.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_672">
+       <Title>Philippians 1:27-30</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_104">Philippians</ContainedInAlbum>
+       <SongLength ms="2311941">38:31</SongLength>
+       <Bitrate>50506</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\Philippians\06 Philippians 1_27-30.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_673">
+       <Title>Philippians 2:1-4</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_104">Philippians</ContainedInAlbum>
+       <SongLength ms="2448352">40:48</SongLength>
+       <Bitrate>50577</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\Philippians\07 Philippians 2_1-4.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_674">
+       <Title>Philippians 2:5-11</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_104">Philippians</ContainedInAlbum>
+       <SongLength ms="2618566">43:38</SongLength>
+       <Bitrate>50536</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\Philippians\08 Philippians 2_5-11.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_675">
+       <Title>Philippians 2:12-13</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_104">Philippians</ContainedInAlbum>
+       <SongLength ms="2719712">45:19</SongLength>
+       <Bitrate>50481</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\Philippians\09 Philippians 2_12-13.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_676">
+       <Title>Philippians 2:14-16</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_104">Philippians</ContainedInAlbum>
+       <SongLength ms="2491820">41:31</SongLength>
+       <Bitrate>50562</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\Philippians\10 Philippians 2_14-16.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_677">
+       <Title>Philippians 2:17-24</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_104">Philippians</ContainedInAlbum>
+       <SongLength ms="2520241">42:00</SongLength>
+       <Bitrate>50718</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\Philippians\11 Philippians 2_17-24.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_678">
+       <Title>Philippians 2:25-30</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_104">Philippians</ContainedInAlbum>
+       <SongLength ms="2625776">43:45</SongLength>
+       <Bitrate>50546</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\Philippians\12 Philippians 2_25-30.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_679">
+       <Title>Philippians 3:1-3</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_104">Philippians</ContainedInAlbum>
+       <SongLength ms="2496261">41:36</SongLength>
+       <Bitrate>50692</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\Philippians\13 Philippians 3_1-3.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_680">
+       <Title>Philippians 3:4-8</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_104">Philippians</ContainedInAlbum>
+       <SongLength ms="2560574">42:40</SongLength>
+       <Bitrate>50614</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\Philippians\14 Philippians 3_4-8.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_681">
+       <Title>Philippians 3:9-11</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_104">Philippians</ContainedInAlbum>
+       <SongLength ms="2343967">39:03</SongLength>
+       <Bitrate>50645</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\Philippians\15 Philippians 3_9-11.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_682">
+       <Title>Philippians 3:12-16</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_104">Philippians</ContainedInAlbum>
+       <SongLength ms="2528757">42:08</SongLength>
+       <Bitrate>50606</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\Philippians\16 Philippians 3_12-16.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_683">
+       <Title>Philippians 3:17-21</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_104">Philippians</ContainedInAlbum>
+       <SongLength ms="2513606">41:53</SongLength>
+       <Bitrate>50734</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\Philippians\17 Philippians 3_17-21.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_684">
+       <Title>Philippians 4:1-8</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_104">Philippians</ContainedInAlbum>
+       <SongLength ms="2335764">38:55</SongLength>
+       <Bitrate>50799</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\Philippians\18 Philippians 4_1-8.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_685">
+       <Title>Philippians 4:6-7</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_104">Philippians</ContainedInAlbum>
+       <SongLength ms="2377508">39:37</SongLength>
+       <Bitrate>50737</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\Philippians\19 Philippians 4_6-7.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_686">
+       <Title>Philippians 4:8-9</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_104">Philippians</ContainedInAlbum>
+       <SongLength ms="2486961">41:26</SongLength>
+       <Bitrate>50627</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\Philippians\20 Philippians 4_8-9.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_687">
+       <Title>Philippians 4:10-13</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_104">Philippians</ContainedInAlbum>
+       <SongLength ms="2541453">42:21</SongLength>
+       <Bitrate>50721</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\Philippians\21 Philippians 4_10-13.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_688">
+       <Title>Philippians 4:14-23</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_104">Philippians</ContainedInAlbum>
+       <SongLength ms="2371604">39:31</SongLength>
+       <Bitrate>50804</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\Philippians\22 Philippians 4_14-23.mp3</Path>
+       </Location>
+    </Song>
+  </Songs>
+</MusicDatabase>

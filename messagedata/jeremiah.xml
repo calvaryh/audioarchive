@@ -1,0 +1,126 @@
+<?xml version='1.0'?>
+<MusicDatabase>
+  <Artists>
+    <Artist id="Artist_1">
+       <Name>Ron Hindt</Name>
+    </Artist>
+  </Artists>
+  <Albums>
+    <Album id="Album_74">
+       <PerformingArtist id="0">Ron Hindt</PerformingArtist>
+       <Name>Jeremiah</Name>
+    </Album>
+  </Albums>
+  <Songs>
+    <Song id="Song_456">
+       <Title>Jeremiah 1-5</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_74">Jeremiah</ContainedInAlbum>
+       <SongLength ms="3235683">53:55</SongLength>
+       <Bitrate>35239</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\Jeremiah\01 Jeremiah 1-5.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_457">
+       <Title>Jeremiah 6-10</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_74">Jeremiah</ContainedInAlbum>
+       <SongLength ms="3139291">52:19</SongLength>
+       <Bitrate>35167</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\Jeremiah\02 Jeremiah 6-10.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_458">
+       <Title>Jeremiah 11-15</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_74">Jeremiah</ContainedInAlbum>
+       <SongLength ms="3039503">50:39</SongLength>
+       <Bitrate>35157</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\Jeremiah\03 Jeremiah 11-15.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_459">
+       <Title>Jeremiah 16-20</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_74">Jeremiah</ContainedInAlbum>
+       <SongLength ms="2647928">44:07</SongLength>
+       <Bitrate>35337</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\Jeremiah\04 Jeremiah 16-20.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_460">
+       <Title>Jeremiah 21-25</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_74">Jeremiah</ContainedInAlbum>
+       <SongLength ms="3120483">52:00</SongLength>
+       <Bitrate>35572</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\Jeremiah\05 Jeremiah 21-25.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_461">
+       <Title>Jeremiah 26-30</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_74">Jeremiah</ContainedInAlbum>
+       <SongLength ms="3067454">51:07</SongLength>
+       <Bitrate>35565</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\Jeremiah\06 Jeremiah 26-30.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_462">
+       <Title>Jeremiah 31-34</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_74">Jeremiah</ContainedInAlbum>
+       <SongLength ms="3386671">56:26</SongLength>
+       <Bitrate>35408</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\Jeremiah\07 Jeremiah 31-34.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_463">
+       <Title>Jeremiah 35-39</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_74">Jeremiah</ContainedInAlbum>
+       <SongLength ms="2941962">49:01</SongLength>
+       <Bitrate>35514</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\Jeremiah\08 Jeremiah 35-39.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_464">
+       <Title>Jeremiah 40-45</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_74">Jeremiah</ContainedInAlbum>
+       <SongLength ms="3127849">52:07</SongLength>
+       <Bitrate>35397</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\Jeremiah\09 Jeremiah 40-45.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_465">
+       <Title>Jeremiah 46-52</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_74">Jeremiah</ContainedInAlbum>
+       <SongLength ms="3355689">55:55</SongLength>
+       <Bitrate>35461</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\Jeremiah\10 Jeremiah 46-52.mp3</Path>
+       </Location>
+    </Song>
+  </Songs>
+</MusicDatabase>

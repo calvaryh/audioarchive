@@ -1,0 +1,104 @@
+<?xml version='1.0'?>
+<MusicDatabase>
+  <Artists>
+    <Artist id="Artist_1">
+       <Name>Ron Hindt</Name>
+    </Artist>
+  </Artists>
+  <Albums>
+    <Album id="Album_16">
+       <PerformingArtist id="0">Ron Hindt</PerformingArtist>
+       <Name>2 Chronicles</Name>
+    </Album>
+  </Albums>
+  <Songs>
+    <Song id="Song_121">
+       <Title>2 Chronicles 1-5</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_16">2 Chronicles</ContainedInAlbum>
+       <SongLength ms="3013903">50:13</SongLength>
+       <Bitrate>35277</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\2 Chronicles\01 2 Chronicles 1-5.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_128">
+      <Title>2 Chronicles 6-10</Title>
+      <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+      <ContainedInAlbum id="Album_16">2 Chronicles</ContainedInAlbum>
+      <SongLength ms="2959307">49:19</SongLength>
+      <Bitrate>35219</Bitrate>
+      <Location>
+        <Media id="Media_4" sn="-2041643488"></Media>
+        <Path>media\2 Chronicles\01 2 Chronicles 6-10.mp3</Path>
+      </Location>
+    </Song>
+    <Song id="Song_122">
+      <Title>2 Chronicles 11-16</Title>
+      <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+      <ContainedInAlbum id="Album_16">2 Chronicles</ContainedInAlbum>
+      <SongLength ms="2965733">49:25</SongLength>
+      <Bitrate>35239</Bitrate>
+      <Location>
+        <Media id="Media_4" sn="-2041643488"></Media>
+        <Path>media\2 Chronicles\01 2 Chronicles 11-16.mp3</Path>
+      </Location>
+    </Song>
+    <Song id="Song_123">
+       <Title>2 Chronicles 17-20</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_16">2 Chronicles</ContainedInAlbum>
+       <SongLength ms="2958053">49:18</SongLength>
+       <Bitrate>35298</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\2 Chronicles\01 2 Chronicles 17-20.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_124">
+       <Title>2 Chronicles 21-24</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_16">2 Chronicles</ContainedInAlbum>
+       <SongLength ms="3059043">50:59</SongLength>
+       <Bitrate>34935</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\2 Chronicles\01 2 Chronicles 21-24.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_125">
+       <Title>2 Chronicles 25-28</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_16">2 Chronicles</ContainedInAlbum>
+       <SongLength ms="2848496">47:28</SongLength>
+       <Bitrate>35162</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\2 Chronicles\01 2 Chronicles 25-28.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_126">
+       <Title>2 Chronicles 29-32</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_16">2 Chronicles</ContainedInAlbum>
+       <SongLength ms="3055281">50:55</SongLength>
+       <Bitrate>35404</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\2 Chronicles\01 2 Chronicles 29-32.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_127">
+       <Title>2 Chronicles 33-36</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_16">2 Chronicles</ContainedInAlbum>
+       <SongLength ms="3037518">50:37</SongLength>
+       <Bitrate>35084</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\2 Chronicles\01 2 Chronicles 33-36.mp3</Path>
+       </Location>
+    </Song>
+  </Songs>
+</MusicDatabase>

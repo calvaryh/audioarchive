@@ -1,0 +1,137 @@
+<?xml version='1.0'?>
+<MusicDatabase>
+  <Artists>
+    <Artist id="Artist_1">
+       <Name>Ron Hindt</Name>
+    </Artist>
+  </Artists>
+  <Albums>
+    <Album id="Album_46">
+       <PerformingArtist id="0">Ron Hindt</PerformingArtist>
+       <Name>Deuteronomy</Name>
+    </Album>
+  </Albums>
+  <Songs>
+    <Song id="Song_274">
+       <Title>Deuteronomy 1-3</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_46">Deuteronomy</ContainedInAlbum>
+       <SongLength ms="3094778">51:34</SongLength>
+       <Bitrate>50917</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\Deuteronomy\01 Deuteronomy 1-3.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_275">
+       <Title>Deuteronomy 4-5</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_46">Deuteronomy</ContainedInAlbum>
+       <SongLength ms="3150576">52:30</SongLength>
+       <Bitrate>51281</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\Deuteronomy\02 Deuteronomy 4-5.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_276">
+       <Title>Deuteronomy 6-7</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_46">Deuteronomy</ContainedInAlbum>
+       <SongLength ms="2910981">48:30</SongLength>
+       <Bitrate>50927</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\Deuteronomy\03 Deuteronomy 6-7.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_277">
+       <Title>Deuteronomy 8-10</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_46">Deuteronomy</ContainedInAlbum>
+       <SongLength ms="3223510">53:43</SongLength>
+       <Bitrate>50642</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\Deuteronomy\04 Deuteronomy 8-10.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_278">
+       <Title>Deuteronomy 11-13</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_46">Deuteronomy</ContainedInAlbum>
+       <SongLength ms="3127222">52:07</SongLength>
+       <Bitrate>50917</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\Deuteronomy\05 Deuteronomy 11-13.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_279">
+       <Title>Deuteronomy14-16</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_46">Deuteronomy</ContainedInAlbum>
+       <SongLength ms="3021792">50:21</SongLength>
+       <Bitrate>50883</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\Deuteronomy\06 Deuteronomy14-16.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_280">
+       <Title>Deuteronomy 17-19</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_46">Deuteronomy</ContainedInAlbum>
+       <SongLength ms="3056117">50:56</SongLength>
+       <Bitrate>51042</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\Deuteronomy\07 Deuteronomy 17-19.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_281">
+       <Title>Deuteronomy 20-23</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_46">Deuteronomy</ContainedInAlbum>
+       <SongLength ms="3351875">55:51</SongLength>
+       <Bitrate>50957</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\Deuteronomy\08 Deuteronomy 20-23.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_282">
+       <Title>Deuteronomy 24-27</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_46">Deuteronomy</ContainedInAlbum>
+       <SongLength ms="3237459">53:57</SongLength>
+       <Bitrate>51042</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\Deuteronomy\09 Deuteronomy 24-27.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_283">
+       <Title>Deuteronomy 28-30</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_46">Deuteronomy</ContainedInAlbum>
+       <SongLength ms="3121319">52:01</SongLength>
+       <Bitrate>51058</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\Deuteronomy\10 Deuteronomy 28-30.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_284">
+       <Title>Deuteronomy 31-34</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_46">Deuteronomy</ContainedInAlbum>
+       <SongLength ms="3081247">51:21</SongLength>
+       <Bitrate>51189</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\Deuteronomy\11 Deuteronomy 31-34.mp3</Path>
+       </Location>
+    </Song>
+  </Songs>
+</MusicDatabase>

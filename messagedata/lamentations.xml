@@ -1,0 +1,27 @@
+<?xml version='1.0'?>
+<MusicDatabase>
+  <Artists>
+    <Artist id="Artist_1">
+       <Name>Ron Hindt</Name>
+    </Artist>
+  </Artists>
+  <Albums>
+    <Album id="Album_86">
+       <PerformingArtist id="0">Ron Hindt</PerformingArtist>
+       <Name>Lamentations</Name>
+    </Album>
+  </Albums>
+  <Songs>
+    <Song id="Song_562">
+       <Title>Lamentations 1-5</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_86">Lamentations</ContainedInAlbum>
+       <SongLength ms="3120587">52:00</SongLength>
+       <Bitrate>35305</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\Lamentations\01 Lamentations 1-5.mp3</Path>
+       </Location>
+    </Song>
+  </Songs>
+</MusicDatabase>

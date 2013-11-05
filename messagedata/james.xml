@@ -1,0 +1,159 @@
+<?xml version='1.0'?>
+<MusicDatabase>
+  <Artists>
+    <Artist id="Artist_1">
+       <Name>Ron Hindt</Name>
+    </Artist>
+  </Artists>
+  <Albums>
+    <Album id="Album_72">
+       <PerformingArtist id="0">Ron Hindt</PerformingArtist>
+       <Name>James</Name>
+    </Album>
+  </Albums>
+  <Songs>
+    <Song id="Song_443">
+       <Title>James 1:1</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_72">James</ContainedInAlbum>
+       <SongLength ms="2548088">42:28</SongLength>
+       <Bitrate>35538</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\James\01 James 1_1.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_444">
+       <Title>James 1:2-4</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_72">James</ContainedInAlbum>
+       <SongLength ms="2468728">41:08</SongLength>
+       <Bitrate>35414</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\James\02 James 1_2-4.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_445">
+       <Title>James 1:5-12</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_72">James</ContainedInAlbum>
+       <SongLength ms="2446889">40:46</SongLength>
+       <Bitrate>35369</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\James\03 James 1_5-12.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_446">
+       <Title>James 1:12-18</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_72">James</ContainedInAlbum>
+       <SongLength ms="2419408">40:19</SongLength>
+       <Bitrate>35104</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\James\04 James 1_12-18.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_447">
+       <Title>James 1:19-27</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_72">James</ContainedInAlbum>
+       <SongLength ms="2411676">40:11</SongLength>
+       <Bitrate>35449</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\James\05 James 1_19-27.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_448">
+       <Title>James 2:1-12</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_72">James</ContainedInAlbum>
+       <SongLength ms="2466011">41:06</SongLength>
+       <Bitrate>35389</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\James\06 James 2_1-12.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_449">
+       <Title>James 2:14-26</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_72">James</ContainedInAlbum>
+       <SongLength ms="2373172">39:33</SongLength>
+       <Bitrate>35314</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\James\07 James 2_14-26.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_450">
+       <Title>James 3:1-12</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_72">James</ContainedInAlbum>
+       <SongLength ms="2637165">43:57</SongLength>
+       <Bitrate>35285</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\James\08 James 3_1-12.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_451">
+       <Title>James 3:13-18</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_72">James</ContainedInAlbum>
+       <SongLength ms="2474840">41:14</SongLength>
+       <Bitrate>35367</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\James\09 James 3_13-18.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_452">
+       <Title>James 4:1-12</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_72">James</ContainedInAlbum>
+       <SongLength ms="2505299">41:45</SongLength>
+       <Bitrate>35288</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\James\10 James 4_1-12.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_453">
+       <Title>James 4:13-23</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_72">James</ContainedInAlbum>
+       <SongLength ms="2573897">42:53</SongLength>
+       <Bitrate>35394</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\James\11 James 4_13-23.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_454">
+       <Title>James 5:1-12</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_72">James</ContainedInAlbum>
+       <SongLength ms="2508173">41:48</SongLength>
+       <Bitrate>35378</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\James\12 James 5_1-12.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_455">
+       <Title>James 5:13-20</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_72">James</ContainedInAlbum>
+       <SongLength ms="2453263">40:53</SongLength>
+       <Bitrate>35484</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\James\13 James 5_13-20.mp3</Path>
+       </Location>
+    </Song>
+  </Songs>
+</MusicDatabase>
