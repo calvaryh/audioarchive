@@ -1,0 +1,49 @@
+<?xml version='1.0'?>
+<MusicDatabase>
+  <Artists>
+    <Artist id="Artist_1">
+       <Name>Ron Hindt</Name>
+    </Artist>
+  </Artists>
+  <Albums>
+    <Album id="Album_108">
+       <PerformingArtist id="0">Ron Hindt</PerformingArtist>
+       <Name>Presence</Name>
+    </Album>
+  </Albums>
+  <Songs>
+    <Song id="Song_694">
+       <Title>A Christmas Hymn</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_108">Presence</ContainedInAlbum>
+       <SongLength ms="2562455">42:42</SongLength>
+       <Bitrate>35579</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\Presence\01 A Christmas Hymn.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_695">
+       <Title>The Child of Christmas</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_108">Presence</ContainedInAlbum>
+       <SongLength ms="2571128">42:51</SongLength>
+       <Bitrate>35368</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\Presence\02 The Child of Christmas.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_696">
+       <Title>Gifts Fit For A King</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_108">Presence</ContainedInAlbum>
+       <SongLength ms="2592339">43:12</SongLength>
+       <Bitrate>35194</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\Presence\03 Gifts Fit For A King.mp3</Path>
+       </Location>
+    </Song>
+  </Songs>
+</MusicDatabase>

@@ -1,0 +1,82 @@
+<?xml version='1.0'?>
+<MusicDatabase>
+  <Artists>
+    <Artist id="Artist_1">
+       <Name>Ron Hindt</Name>
+    </Artist>
+  </Artists>
+  <Albums>
+    <Album id="Album_8">
+       <PerformingArtist id="0">Ron Hindt</PerformingArtist>
+       <Name>1 Kings</Name>
+    </Album>
+  </Albums>
+  <Songs>
+    <Song id="Song_64">
+       <Title>1 Kings 1-4</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_8">1 Kings</ContainedInAlbum>
+       <SongLength ms="3473920">57:53</SongLength>
+       <Bitrate>35454</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\1 Kings\01 1 Kings 1-4.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_68">
+       <Title>1 Kings 5-8</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_8">1 Kings</ContainedInAlbum>
+       <SongLength ms="3335000">55:35</SongLength>
+       <Bitrate>35241</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\1 Kings\01 1 Kings 5-8.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_69">
+       <Title>1 Kings 9-12</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_8">1 Kings</ContainedInAlbum>
+       <SongLength ms="3406889">56:46</SongLength>
+       <Bitrate>35226</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\1 Kings\01 1 Kings 9-12.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_65">
+       <Title>1 Kings 13-15</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_8">1 Kings</ContainedInAlbum>
+       <SongLength ms="3098488">51:38</SongLength>
+       <Bitrate>35129</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\1 Kings\01 1 Kings 13-15.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_66">
+       <Title>1 Kings 16-19</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_8">1 Kings</ContainedInAlbum>
+       <SongLength ms="3401038">56:41</SongLength>
+       <Bitrate>35272</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\1 Kings\01 1 Kings 16-19.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_67">
+       <Title>1 Kings 20-22</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_8">1 Kings</ContainedInAlbum>
+       <SongLength ms="3416084">56:56</SongLength>
+       <Bitrate>35708</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\1 Kings\01 1 Kings 20-22.mp3</Path>
+       </Location>
+    </Song>
+  </Songs>
+</MusicDatabase>

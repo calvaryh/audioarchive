@@ -1,0 +1,27 @@
+<?xml version='1.0'?>
+<MusicDatabase>
+  <Artists>
+    <Artist id="Artist_1">
+       <Name>Ron Hindt</Name>
+    </Artist>
+  </Artists>
+  <Albums>
+    <Album id="Album_38">
+       <PerformingArtist id="0">Ron Hindt</PerformingArtist>
+       <Name>An Emerging Danger</Name>
+    </Album>
+  </Albums>
+  <Songs>
+    <Song id="Song_242">
+       <Title>An Emerging Danger</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_38">An Emerging Danger</ContainedInAlbum>
+       <SongLength ms="2773824">46:13</SongLength>
+       <Bitrate>48000</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>D:\projects\personal\bible study\RonHindt\An Emerging Danger\An Emerging Danger.mp3</Path>
+       </Location>
+    </Song>
+  </Songs>
+</MusicDatabase>

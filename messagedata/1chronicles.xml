@@ -1,0 +1,60 @@
+<?xml version='1.0'?>
+<MusicDatabase>
+  <Artists>
+    <Artist id="Artist_1">
+       <Name>Ron Hindt</Name>
+    </Artist>
+  </Artists>
+  <Albums>
+    <Album id="Album_2">
+       <PerformingArtist id="0">Ron Hindt</PerformingArtist>
+       <Name>1 Chronicles</Name>
+    </Album>
+  </Albums>
+  <Songs>
+    <Song id="Song_1">
+       <Title>1 Chronicles 1-13</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_2">1 Chronicles</ContainedInAlbum>
+       <SongLength ms="3100682">51:40</SongLength>
+       <Bitrate>34937</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\1 Chronicles\01 1 Chronicles 1-13.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_2">
+       <Title>1 Chronicles 14-17</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_2">1 Chronicles</ContainedInAlbum>
+       <SongLength ms="3085531">51:25</SongLength>
+       <Bitrate>35030</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\1 Chronicles\01 1 Chronicles 14-17.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_3">
+       <Title>1 Chronicles 18-21</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_2">1 Chronicles</ContainedInAlbum>
+       <SongLength ms="3350831">55:50</SongLength>
+       <Bitrate>35467</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\1 Chronicles\01 1 Chronicles 18-21.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_4">
+       <Title>1 Chronicles 22-29</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_2">1 Chronicles</ContainedInAlbum>
+       <SongLength ms="3233593">53:53</SongLength>
+       <Bitrate>35326</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\1 Chronicles\01 1 Chronicles 22-29.mp3</Path>
+       </Location>
+    </Song>
+  </Songs>
+</MusicDatabase>

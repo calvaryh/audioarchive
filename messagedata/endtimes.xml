@@ -1,0 +1,27 @@
+<?xml version='1.0'?>
+<MusicDatabase>
+  <Artists>
+    <Artist id="Artist_1">
+       <Name>Ron Hindt</Name>
+    </Artist>
+  </Artists>
+  <Albums>
+    <Album id="Album_50">
+       <PerformingArtist id="0">Ron Hindt</PerformingArtist>
+       <Name>End Times Update</Name>
+    </Album>
+  </Albums>
+  <Songs>
+    <Song id="Song_287">
+       <Title>Countdown to Eternity</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_50">End Times Update</ContainedInAlbum>
+       <SongLength ms="2504986">41:44</SongLength>
+       <Bitrate>48000</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\End Times Update\01 Countdown to Eternity.mp3</Path>
+       </Location>
+    </Song>
+  </Songs>
+</MusicDatabase>

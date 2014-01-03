@@ -1,0 +1,50 @@
+<?xml version='1.0'?>
+<MusicDatabase>
+  <Artists>
+    <Artist id="Artist_1">
+       <Name>Ron Hindt</Name>
+    </Artist>
+  </Artists>
+  <Albums>
+    <Album id="Album_44">
+       <PerformingArtist id="0">Ron Hindt</PerformingArtist>
+       <Name>Daniel</Name>
+    </Album>
+  </Albums>
+  <Songs>
+    <Song id="Song_270">
+       <Title>Daniel 1-4</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_44">Daniel</ContainedInAlbum>
+       <SongLength ms="3215046">53:35</SongLength>
+       <Year value="2010"/>
+       <Bitrate>35022</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\Daniel\01 Daniel 1-4 1.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_272">
+       <Title>Daniel 5-8</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_44">Daniel</ContainedInAlbum>
+       <SongLength ms="3346024">55:46</SongLength>
+       <Bitrate>35046</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\Daniel\02 Daniel 5-8.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_273">
+       <Title>Daniel 9-12</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_44">Daniel</ContainedInAlbum>
+       <SongLength ms="3428414">57:08</SongLength>
+       <Bitrate>35458</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\Daniel\03 Daniel 9-12.mp3</Path>
+       </Location>
+    </Song>
+  </Songs>
+</MusicDatabase>

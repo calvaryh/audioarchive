@@ -1,0 +1,52 @@
+<?xml version='1.0'?>
+<MusicDatabase>
+  <Artists>
+    <Artist id="Artist_1">
+       <Name>Ron Hindt</Name>
+    </Artist>
+  </Artists>
+  <Albums>
+    <Album id="Album_134">
+       <PerformingArtist id="0">Ron Hindt</PerformingArtist>
+       <Name>The Uncompromising Life</Name>
+    </Album>
+  </Albums>
+  <Songs>
+    <Song id="Song_829">
+       <Title>Daniel 1:1-8</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_134">The Uncompromising Life</ContainedInAlbum>
+       <SongLength ms="3302922">55:02</SongLength>
+       <Year value="1995"/>
+       <Bitrate>35089</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\The Uncompromising Life\01 Daniel 1_1-8.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_830">
+       <Title>Daniel 1:9-21</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_134">The Uncompromising Life</ContainedInAlbum>
+       <SongLength ms="2425730">40:25</SongLength>
+       <Year value="1995"/>
+       <Bitrate>34992</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\The Uncompromising Life\02 Daniel 1_9-21.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_831">
+       <Title>Daniel 3:1-30</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_134">The Uncompromising Life</ContainedInAlbum>
+       <SongLength ms="3240594">54:00</SongLength>
+       <Year value="1995"/>
+       <Bitrate>35052</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\The Uncompromising Life\03 Daniel 3_1-30.mp3</Path>
+       </Location>
+    </Song>
+  </Songs>
+</MusicDatabase>

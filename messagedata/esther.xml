@@ -1,0 +1,38 @@
+<?xml version='1.0'?>
+<MusicDatabase>
+  <Artists>
+    <Artist id="Artist_1">
+       <Name>Ron Hindt</Name>
+    </Artist>
+  </Artists>
+  <Albums>
+    <Album id="Album_54">
+       <PerformingArtist id="0">Ron Hindt</PerformingArtist>
+       <Name>Esther</Name>
+    </Album>
+  </Albums>
+  <Songs>
+    <Song id="Song_326">
+       <Title>Esther 1-5</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_54">Esther</ContainedInAlbum>
+       <SongLength ms="3263529">54:23</SongLength>
+       <Bitrate>35163</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\Esther\01 Esther 1-5 1.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_327">
+       <Title>Esther 6-10</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_54">Esther</ContainedInAlbum>
+       <SongLength ms="3000424">50:00</SongLength>
+       <Bitrate>35048</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\Esther\01 Esther 6-10 1.mp3</Path>
+       </Location>
+    </Song>
+  </Songs>
+</MusicDatabase>

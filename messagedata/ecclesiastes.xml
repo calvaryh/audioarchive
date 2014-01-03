@@ -1,0 +1,38 @@
+<?xml version='1.0'?>
+<MusicDatabase>
+  <Artists>
+    <Artist id="Artist_1">
+       <Name>Ron Hindt</Name>
+    </Artist>
+  </Artists>
+  <Albums>
+    <Album id="Album_48">
+       <PerformingArtist id="0">Ron Hindt</PerformingArtist>
+       <Name>Ecclesiastes</Name>
+    </Album>
+  </Albums>
+  <Songs>
+    <Song id="Song_285">
+       <Title>Ecclesiastes 1-6</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_48">Ecclesiastes</ContainedInAlbum>
+       <SongLength ms="3059088">50:59</SongLength>
+       <Bitrate>35416</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\Ecclesiastes\01 Ecclesiastes 1-6.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_286">
+       <Title>Ecclesiastes 7-12</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_48">Ecclesiastes</ContainedInAlbum>
+       <SongLength ms="3186155">53:06</SongLength>
+       <Bitrate>35150</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\Ecclesiastes\02 Ecclesiastes 7-12.mp3</Path>
+       </Location>
+    </Song>
+  </Songs>
+</MusicDatabase>

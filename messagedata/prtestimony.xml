@@ -1,0 +1,28 @@
+<?xml version='1.0'?>
+<MusicDatabase>
+  <Artists>
+    <Artist id="Artist_1">
+       <Name>Ron Hindt</Name>
+    </Artist>
+  </Artists>
+  <Albums>
+    <Album id="Album_145">
+       <PerformingArtist id="0">Ron Hindt</PerformingArtist>
+       <Name>Testimony</Name>
+    </Album>
+  </Albums>
+  <Songs>
+    <Song id="Song_839">
+       <Title>The Testimony Of A Rocker</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_145">Testimony of a Rocker</ContainedInAlbum>
+       <SongLength ms="3317133">55:17</SongLength>
+       <Year value="2005"/>
+       <Bitrate>35053</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>D:\projects\personal\bible study\RonHindt\Unknown Album\01 The Testimony Of A Rocker.mp3</Path>
+       </Location>
+    </Song>
+  </Songs>
+</MusicDatabase>

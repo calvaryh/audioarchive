@@ -1,0 +1,27 @@
+<?xml version='1.0'?>
+<MusicDatabase>
+  <Artists>
+    <Artist id="Artist_1">
+       <Name>Ron Hindt</Name>
+    </Artist>
+  </Artists>
+  <Albums>
+    <Album id="Album_34">
+       <PerformingArtist id="0">Ron Hindt</PerformingArtist>
+       <Name>A Call to Arms</Name>
+    </Album>
+  </Albums>
+  <Songs>
+    <Song id="Song_187">
+       <Title>Trusting in the Trenches</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_34">A Call to Arms</ContainedInAlbum>
+       <SongLength ms="2744320">45:44</SongLength>
+       <Bitrate>48000</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\A Call to Arms\01 Trusting in the Trenches.mp3</Path>
+       </Location>
+    </Song>
+  </Songs>
+</MusicDatabase>

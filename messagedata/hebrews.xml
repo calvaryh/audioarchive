@@ -1,0 +1,434 @@
+<?xml version='1.0'?>
+<MusicDatabase>
+  <Artists>
+    <Artist id="Artist_1">
+       <Name>Ron Hindt</Name>
+    </Artist>
+  </Artists>
+  <Albums>
+    <Album id="Album_68">
+       <PerformingArtist id="0">Ron Hindt</PerformingArtist>
+       <Name>Hebrews</Name>
+    </Album>
+  </Albums>
+  <Songs>
+    <Song id="Song_392">
+       <Title>Hebrews Overview</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_68">Hebrews</ContainedInAlbum>
+       <SongLength ms="3046138">50:46</SongLength>
+       <Bitrate>34394</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\Hebrews\01 Hebrews Overview 1.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_393">
+       <Title>Hebrews 1:1-3</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_68">Hebrews</ContainedInAlbum>
+       <SongLength ms="2815529">46:55</SongLength>
+       <Bitrate>34267</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\Hebrews\02 Hebrews 1_1-3 1.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_394">
+       <Title>Hebrews 1:4-14</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_68">Hebrews</ContainedInAlbum>
+       <SongLength ms="3092062">51:32</SongLength>
+       <Bitrate>34267</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\Hebrews\03 Hebrews 1_4-14 1.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_395">
+       <Title>Hebrews 2:1-9</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_68">Hebrews</ContainedInAlbum>
+       <SongLength ms="3163167">52:43</SongLength>
+       <Bitrate>34137</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\Hebrews\04 Hebrews 2_1-9 1.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_396">
+       <Title>Hebrews 2:9-18</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_68">Hebrews</ContainedInAlbum>
+       <SongLength ms="3078948">51:18</SongLength>
+       <Bitrate>34257</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\Hebrews\05 Hebrews 2_9-18 1.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_397">
+       <Title>Hebrews 3:1-6</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_68">Hebrews</ContainedInAlbum>
+       <SongLength ms="2811663">46:51</SongLength>
+       <Bitrate>34463</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\Hebrews\06 Hebrews 3_1-6 1.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_398">
+       <Title>Hebrews 3:7-19</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_68">Hebrews</ContainedInAlbum>
+       <SongLength ms="3074768">51:14</SongLength>
+       <Bitrate>34115</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\Hebrews\07 Hebrews 3_7-19 1.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_399">
+       <Title>Hebrews 4:1-13</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_68">Hebrews</ContainedInAlbum>
+       <SongLength ms="2927856">48:47</SongLength>
+       <Bitrate>34401</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\Hebrews\08 Hebrews 4_1-13 1.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_400">
+       <Title>Hebrews 4:14-16</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_68">Hebrews</ContainedInAlbum>
+       <SongLength ms="3095562">51:35</SongLength>
+       <Bitrate>34328</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\Hebrews\09 Hebrews 4_14-16 1.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_401">
+       <Title>Hebrews 5:1-10</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_68">Hebrews</ContainedInAlbum>
+       <SongLength ms="3059513">50:59</SongLength>
+       <Bitrate>34045</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\Hebrews\10 Hebrews 5_1-10 1.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_402">
+       <Title>Hebrews 5:11-14</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_68">Hebrews</ContainedInAlbum>
+       <SongLength ms="2933028">48:53</SongLength>
+       <Bitrate>34032</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\Hebrews\11 Hebrews 5_11-14 1.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_403">
+       <Title>Hebrews 6:1-8</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_68">Hebrews</ContainedInAlbum>
+       <SongLength ms="2885067">48:05</SongLength>
+       <Bitrate>34520</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\Hebrews\12 Hebrews 6_1-8 1.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_404">
+       <Title>Hebrews 6:9-12</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_68">Hebrews</ContainedInAlbum>
+       <SongLength ms="2651480">44:11</SongLength>
+       <Bitrate>34190</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\Hebrews\13 Hebrews 6_9-12 1.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_405">
+       <Title>Hebrews 6:13-20</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_68">Hebrews</ContainedInAlbum>
+       <SongLength ms="2682357">44:42</SongLength>
+       <Bitrate>34215</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\Hebrews\14 Hebrews 6_13-20 1.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_406">
+       <Title>Hebrews 7:1-10</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_68">Hebrews</ContainedInAlbum>
+       <SongLength ms="2903562">48:23</SongLength>
+       <Bitrate>34488</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\Hebrews\15 Hebrews 7_1-10 1.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_407">
+       <Title>Hebrews 7:11-19</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_68">Hebrews</ContainedInAlbum>
+       <SongLength ms="2835173">47:15</SongLength>
+       <Bitrate>34502</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\Hebrews\16 Hebrews 7_11-19 1.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_408">
+       <Title>Hebrews 7:20-28</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_68">Hebrews</ContainedInAlbum>
+       <SongLength ms="2875402">47:55</SongLength>
+       <Bitrate>34509</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\Hebrews\17 Hebrews 7_20-28 1.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_409">
+       <Title>Hebrews 8:1-13</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_68">Hebrews</ContainedInAlbum>
+       <SongLength ms="3041227">50:41</SongLength>
+       <Bitrate>34606</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\Hebrews\18 Hebrews 8_1-13 1.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_410">
+       <Title>Hebrews 9:1-14</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_68">Hebrews</ContainedInAlbum>
+       <SongLength ms="2778070">46:18</SongLength>
+       <Bitrate>34639</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\Hebrews\19 Hebrews 9_1-14 1.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_411">
+       <Title>Hebrews 9:15-28</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_68">Hebrews</ContainedInAlbum>
+       <SongLength ms="2933603">48:53</SongLength>
+       <Bitrate>34788</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\Hebrews\20 Hebrews 9_15-28 1.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_412">
+       <Title>Hebrews 10:1-25</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_68">Hebrews</ContainedInAlbum>
+       <SongLength ms="2968450">49:28</SongLength>
+       <Bitrate>34627</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\Hebrews\21 Hebrews 10_1-25 1.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_413">
+       <Title>Hebrews 10:26-39</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_68">Hebrews</ContainedInAlbum>
+       <SongLength ms="2837629">47:17</SongLength>
+       <Bitrate>34528</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\Hebrews\22 Hebrews 10_26-39 1.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_414">
+       <Title>Hebrews 11:1-3</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_68">Hebrews</ContainedInAlbum>
+       <SongLength ms="3230406">53:50</SongLength>
+       <Bitrate>34223</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\Hebrews\23 Hebrews 11_1-3 1.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_415">
+       <Title>Hebrews 11:4</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_68">Hebrews</ContainedInAlbum>
+       <SongLength ms="2773733">46:13</SongLength>
+       <Bitrate>34790</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\Hebrews\24 Hebrews 11_4 1.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_416">
+       <Title>Hebrews 11:5-6</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_68">Hebrews</ContainedInAlbum>
+       <SongLength ms="2702367">45:02</SongLength>
+       <Bitrate>34792</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\Hebrews\25 Hebrews 11_5-6 1.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_417">
+       <Title>Hebrews 11:7</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_68">Hebrews</ContainedInAlbum>
+       <SongLength ms="2940342">49:00</SongLength>
+       <Bitrate>34167</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\Hebrews\26 Hebrews 11_7 1.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_418">
+       <Title>Hebrews 11:8-19</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_68">Hebrews</ContainedInAlbum>
+       <SongLength ms="3013799">50:13</SongLength>
+       <Bitrate>34467</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\Hebrews\27 Hebrews 11_8-19 1.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_419">
+       <Title>Hebrews 11:20-22</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_68">Hebrews</ContainedInAlbum>
+       <SongLength ms="2898337">48:18</SongLength>
+       <Bitrate>34312</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\Hebrews\28 Hebrews 11_20-22 1.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_420">
+       <Title>Hebrews 11:23-29</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_68">Hebrews</ContainedInAlbum>
+       <SongLength ms="2823732">47:03</SongLength>
+       <Bitrate>34539</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\Hebrews\29 Hebrews 11_23-29 1.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_421">
+       <Title>Hebrews 11:30-40</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_68">Hebrews</ContainedInAlbum>
+       <SongLength ms="2905234">48:25</SongLength>
+       <Bitrate>34618</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\Hebrews\30 Hebrews 11_30-40 1.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_422">
+       <Title>Hebrews 12:1-3</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_68">Hebrews</ContainedInAlbum>
+       <SongLength ms="2955755">49:15</SongLength>
+       <Bitrate>34691</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\Hebrews\31 Hebrews 12_1-3 1.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_423">
+       <Title>Hebrews 12:3-11</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_68">Hebrews</ContainedInAlbum>
+       <SongLength ms="2644427">44:04</SongLength>
+       <Bitrate>34338</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\Hebrews\32 Hebrews 12_3-11 1.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_424">
+       <Title>Hebrews 12:12-17</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_68">Hebrews</ContainedInAlbum>
+       <SongLength ms="2839823">47:19</SongLength>
+       <Bitrate>34284</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\Hebrews\33 Hebrews 12_12-17 1.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_425">
+       <Title>Hebrews 12:18-29</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_68">Hebrews</ContainedInAlbum>
+       <SongLength ms="2850533">47:30</SongLength>
+       <Bitrate>34564</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\Hebrews\34 Hebrews 12_18-29 1.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_426">
+       <Title>Hebrews 13:1-3</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_68">Hebrews</ContainedInAlbum>
+       <SongLength ms="2954553">49:14</SongLength>
+       <Bitrate>34552</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\Hebrews\35 Hebrews 13_1-3 1.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_427">
+       <Title>Hebrews 13:4-6</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_68">Hebrews</ContainedInAlbum>
+       <SongLength ms="2852257">47:32</SongLength>
+       <Bitrate>34330</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\Hebrews\36 Hebrews 13_4-6 1.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_428">
+       <Title>Hebrews 13:6-17</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_68">Hebrews</ContainedInAlbum>
+       <SongLength ms="2866416">47:46</SongLength>
+       <Bitrate>34501</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\Hebrews\37 Hebrews 13_6-17 1.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_429">
+       <Title>Hebrews 13:17-25</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_68">Hebrews</ContainedInAlbum>
+       <SongLength ms="2959203">49:19</SongLength>
+       <Bitrate>34533</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\Hebrews\38 Hebrews 13_17-25 1.mp3</Path>
+       </Location>
+    </Song>
+  </Songs>
+</MusicDatabase>

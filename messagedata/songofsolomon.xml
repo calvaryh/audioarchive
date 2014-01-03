@@ -1,0 +1,27 @@
+<?xml version='1.0'?>
+<MusicDatabase>
+  <Artists>
+    <Artist id="Artist_1">
+       <Name>Ron Hindt</Name>
+    </Artist>
+  </Artists>
+  <Albums>
+    <Album id="Album_122">
+       <PerformingArtist id="0">Ron Hindt</PerformingArtist>
+       <Name>Song of Solomon</Name>
+    </Album>
+  </Albums>
+  <Songs>
+    <Song id="Song_820">
+       <Title>Solomon 1-8</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_122">Song of Solomon</ContainedInAlbum>
+       <SongLength ms="3222726">53:42</SongLength>
+       <Bitrate>34893</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\Song of Solomon\01 Solomon 1-8.mp3</Path>
+       </Location>
+    </Song>
+  </Songs>
+</MusicDatabase>

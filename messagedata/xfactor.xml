@@ -1,0 +1,126 @@
+<?xml version='1.0'?>
+<MusicDatabase>
+  <Artists>
+    <Artist id="Artist_1">
+       <Name>Ron Hindt</Name>
+    </Artist>
+  </Artists>
+  <Albums>
+    <Album id="Album_138">
+       <PerformingArtist id="0">Ron Hindt</PerformingArtist>
+       <Name>X-Factor</Name>
+    </Album>
+  </Albums>
+  <Songs>
+    <Song id="Song_841">
+       <Title>First Things First</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_138">X-Factor</ContainedInAlbum>
+       <SongLength ms="2845204">47:25</SongLength>
+       <Bitrate>35295</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\X-Factor\01 First Things First.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_842">
+       <Title>Image is Everything</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_138">X-Factor</ContainedInAlbum>
+       <SongLength ms="2761978">46:01</SongLength>
+       <Bitrate>35318</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\X-Factor\02 Image is Everything.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_843">
+       <Title>What's In A Name</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_138">X-Factor</ContainedInAlbum>
+       <SongLength ms="2753619">45:53</SongLength>
+       <Bitrate>35193</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\X-Factor\03 What's In A Name.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_844">
+       <Title>The "Rest" of the Week</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_138">X-Factor</ContainedInAlbum>
+       <SongLength ms="2549968">42:29</SongLength>
+       <Bitrate>35418</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\X-Factor\04 The _Rest_ of the Week.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_845">
+       <Title>Honor Roll</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_138">X-Factor</ContainedInAlbum>
+       <SongLength ms="2696359">44:56</SongLength>
+       <Bitrate>35372</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\X-Factor\05 Honor Roll.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_846">
+       <Title>The Murderer in Me</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_138">X-Factor</ContainedInAlbum>
+       <SongLength ms="2623164">43:43</SongLength>
+       <Bitrate>35090</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\X-Factor\06 The Murderer in Me.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_847">
+       <Title>When the Vow Breaks</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_138">X-Factor</ContainedInAlbum>
+       <SongLength ms="2645786">44:05</SongLength>
+       <Bitrate>34855</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\X-Factor\07 When the Vow Breaks.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_848">
+       <Title>The Appeal to Steal</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_138">X-Factor</ContainedInAlbum>
+       <SongLength ms="2672483">44:32</SongLength>
+       <Bitrate>35451</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\X-Factor\08 The Appeal to Steal.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_849">
+       <Title>To Tell the Truth</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_138">X-Factor</ContainedInAlbum>
+       <SongLength ms="2812865">46:52</SongLength>
+       <Bitrate>35199</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\X-Factor\09 To Tell the Truth.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_850">
+       <Title>The Desire to Acquire</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_138">X-Factor</ContainedInAlbum>
+       <SongLength ms="2740506">45:40</SongLength>
+       <Bitrate>35235</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\X-Factor\10 The Desire to Acquire.mp3</Path>
+       </Location>
+    </Song>
+  </Songs>
+</MusicDatabase>

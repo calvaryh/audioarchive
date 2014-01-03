@@ -1,0 +1,104 @@
+<?xml version='1.0'?>
+<MusicDatabase>
+  <Artists>
+    <Artist id="Artist_1">
+       <Name>Ron Hindt</Name>
+    </Artist>
+  </Artists>
+  <Albums>
+    <Album id="Album_26">
+       <PerformingArtist id="0">Ron Hindt</PerformingArtist>
+       <Name>2 Samuel</Name>
+    </Album>
+  </Albums>
+  <Songs>
+    <Song id="Song_159">
+       <Title>2 Samuel 1-3</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_26">2 Samuel</ContainedInAlbum>
+       <SongLength ms="3212904">53:32</SongLength>
+       <Bitrate>35379</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\2 Samuel\01 2 Samuel 1-3.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_165">
+      <Title>2 Samuel 4-6</Title>
+      <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+      <ContainedInAlbum id="Album_26">2 Samuel</ContainedInAlbum>
+      <SongLength ms="3148382">52:28</SongLength>
+      <Bitrate>35345</Bitrate>
+      <Location>
+        <Media id="Media_4" sn="-2041643488"></Media>
+        <Path>media\2 Samuel\01 2 Samuel 4-6.mp3</Path>
+      </Location>
+    </Song>
+    <Song id="Song_166">
+      <Title>2 Samuel 7-10</Title>
+      <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+      <ContainedInAlbum id="Album_26">2 Samuel</ContainedInAlbum>
+      <SongLength ms="3112124">51:52</SongLength>
+      <Bitrate>35370</Bitrate>
+      <Location>
+        <Media id="Media_4" sn="-2041643488"></Media>
+        <Path>media\2 Samuel\01 2 Samuel 7-10.mp3</Path>
+      </Location>
+    </Song>
+    <Song id="Song_160">
+      <Title>2 Samuel 11-12</Title>
+      <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+      <ContainedInAlbum id="Album_26">2 Samuel</ContainedInAlbum>
+      <SongLength ms="3220950">53:40</SongLength>
+      <Bitrate>35209</Bitrate>
+      <Location>
+        <Media id="Media_4" sn="-2041643488"></Media>
+        <Path>media\2 Samuel\01 2 Samuel 11-12.mp3</Path>
+      </Location>
+    </Song>
+    <Song id="Song_161">
+       <Title>2 Samuel 13-14</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_26">2 Samuel</ContainedInAlbum>
+       <SongLength ms="2828329">47:08</SongLength>
+       <Bitrate>35268</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\2 Samuel\01 2 Samuel 13-14.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_162">
+       <Title>2 Samuel 15-17</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_26">2 Samuel</ContainedInAlbum>
+       <SongLength ms="3246497">54:06</SongLength>
+       <Bitrate>35388</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\2 Samuel\01 2 Samuel 14-17.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_163">
+       <Title>2 Samuel 18-20</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_26">2 Samuel</ContainedInAlbum>
+       <SongLength ms="3182915">53:02</SongLength>
+       <Bitrate>35440</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\2 Samuel\01 2 Samuel 18-20.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_164">
+       <Title>2 Samuel 21-24</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_26">2 Samuel</ContainedInAlbum>
+       <SongLength ms="3350151">55:50</SongLength>
+       <Bitrate>35367</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\2 Samuel\01 2 Samuel 21-24.mp3</Path>
+       </Location>
+    </Song>
+  </Songs>
+</MusicDatabase>

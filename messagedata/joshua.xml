@@ -1,0 +1,93 @@
+<?xml version='1.0'?>
+<MusicDatabase>
+  <Artists>
+    <Artist id="Artist_1">
+       <Name>Ron Hindt</Name>
+    </Artist>
+  </Artists>
+  <Albums>
+    <Album id="Album_80">
+       <PerformingArtist id="0">Ron Hindt</PerformingArtist>
+       <Name>Joshua</Name>
+    </Album>
+  </Albums>
+  <Songs>
+    <Song id="Song_547">
+       <Title>Joshua 1-2</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_80">Joshua</ContainedInAlbum>
+       <SongLength ms="3161495">52:41</SongLength>
+       <Bitrate>48000</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\Joshua\01 Joshua 1-2.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_548">
+       <Title>Joshua 3-5</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_80">Joshua</ContainedInAlbum>
+       <SongLength ms="3205276">53:25</SongLength>
+       <Bitrate>48000</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\Joshua\02 Joshua 3-5.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_549">
+       <Title>Joshua 6-8</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_80">Joshua</ContainedInAlbum>
+       <SongLength ms="3181191">53:01</SongLength>
+       <Bitrate>48000</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\Joshua\03 Joshua 6-8.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_550">
+       <Title>Joshua 9-11</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_80">Joshua</ContainedInAlbum>
+       <SongLength ms="3297698">54:57</SongLength>
+       <Bitrate>48000</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\Joshua\04 Joshua 9-11.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_551">
+       <Title>Joshua 12-19</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_80">Joshua</ContainedInAlbum>
+       <SongLength ms="3330037">55:30</SongLength>
+       <Bitrate>48000</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\Joshua\05 Joshua 12-19.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_552">
+       <Title>Joshua 20-22</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_80">Joshua</ContainedInAlbum>
+       <SongLength ms="3207000">53:27</SongLength>
+       <Bitrate>48000</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\Joshua\06 Joshua 20-22.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_553">
+       <Title>Joshua 23-24</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_80">Joshua</ContainedInAlbum>
+       <SongLength ms="3084747">51:24</SongLength>
+       <Bitrate>48000</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\Joshua\07 Joshua 23-24.mp3</Path>
+       </Location>
+    </Song>
+  </Songs>
+</MusicDatabase>

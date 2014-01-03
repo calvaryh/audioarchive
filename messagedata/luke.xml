@@ -1,0 +1,788 @@
+<?xml version='1.0'?>
+<MusicDatabase>
+  <Artists>
+    <Artist id="Artist_1">
+       <Name>Ron Hindt</Name>
+    </Artist>
+  </Artists>
+  <Albums>
+    <Album id="Album_90">
+       <PerformingArtist id="0">Ron Hindt</PerformingArtist>
+       <Name>Luke</Name>
+    </Album>
+  </Albums>
+  <Songs>
+    <Song id="Song_564">
+       <Title>Luke 1:1-45</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_90">Luke</ContainedInAlbum>
+       <SongLength ms="2728019">45:28</SongLength>
+       <Bitrate>35288</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\Luke\01 Luke 1_1-45 1.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_565">
+       <Title>Luke 1:46-80</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_90">Luke</ContainedInAlbum>
+       <SongLength ms="2495373">41:35</SongLength>
+       <Bitrate>35215</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\Luke\02 Luke 1_46-80 1.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_566">
+       <Title>Luke 2:1-20</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_90">Luke</ContainedInAlbum>
+       <SongLength ms="2703725">45:03</SongLength>
+       <Bitrate>35213</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\Luke\03 Luke 2_1-20 1.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_567">
+       <Title>Luke 2:21-52</Title>
+       <keywords>Courage</keywords>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_90">Luke</ContainedInAlbum>
+       <SongLength ms="2579957">42:59</SongLength>
+       <Bitrate>35196</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\Luke\04 Luke 2_21-52 1.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_568">
+       <Title>Luke 3:1-38</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_90">Luke</ContainedInAlbum>
+       <SongLength ms="2659840">44:19</SongLength>
+       <Bitrate>35460</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\Luke\05 Luke 3_1-38 1.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_569">
+       <Title>Luke 4:1-3</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_90">Luke</ContainedInAlbum>
+       <SongLength ms="2767307">46:07</SongLength>
+       <Bitrate>35359</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\Luke\06 Luke 4_1-3 1.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_570">
+       <Title>Luke 4:4-30</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_90">Luke</ContainedInAlbum>
+       <SongLength ms="2659578">44:19</SongLength>
+       <Bitrate>35218</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\Luke\07 Luke 4_4-30 1.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_571">
+       <Title>Luke 4:31-44</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_90">Luke</ContainedInAlbum>
+       <SongLength ms="2797975">46:37</SongLength>
+       <Bitrate>35032</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\Luke\08 Luke 4_31-44 1.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_572">
+       <Title>Luke 5:1-15</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_90">Luke</ContainedInAlbum>
+       <SongLength ms="2642494">44:02</SongLength>
+       <Bitrate>35011</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\Luke\09 Luke 5_1-15 1.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_573">
+       <Title>Luke 5:16-26</Title>
+       <keywords>Courage</keywords>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_90">Luke</ContainedInAlbum>
+       <SongLength ms="2606915">43:26</SongLength>
+       <Bitrate>35069</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\Luke\10 Luke 5_16-26 1.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_574">
+       <Title>Luke 5:27-39</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_90">Luke</ContainedInAlbum>
+       <SongLength ms="2711980">45:11</SongLength>
+       <Bitrate>34477</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\Luke\11 Luke 5_27-39 1.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_575">
+       <Title>Luke 6:1-11</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_90">Luke</ContainedInAlbum>
+       <SongLength ms="2783921">46:23</SongLength>
+       <Bitrate>34988</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\Luke\12 Luke 6_1-11 1.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_576">
+       <Title>Luke 6:12-16</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_90">Luke</ContainedInAlbum>
+       <SongLength ms="2752052">45:52</SongLength>
+       <Bitrate>34975</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\Luke\13 Luke 6_12-16 1.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_577">
+       <Title>Luke 6:17-36</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_90">Luke</ContainedInAlbum>
+       <SongLength ms="2651794">44:11</SongLength>
+       <Bitrate>34662</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\Luke\14 Luke 6_17-36 1.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_578">
+       <Title>Luke 6:37-49</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_90">Luke</ContainedInAlbum>
+       <SongLength ms="2479804">41:19</SongLength>
+       <Bitrate>35115</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\Luke\15 Luke 6_37-49 1.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_579">
+       <Title>Luke 7:1-16</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_90">Luke</ContainedInAlbum>
+       <SongLength ms="2328398">38:48</SongLength>
+       <Bitrate>35125</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\Luke\16 Luke 7_1-16 1.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_580">
+       <Title>Luke 7:17-35</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_90">Luke</ContainedInAlbum>
+       <SongLength ms="2558484">42:38</SongLength>
+       <Bitrate>35231</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\Luke\17 Luke 7_17-35 1.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_581">
+       <Title>Luke 7:36-50</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_90">Luke</ContainedInAlbum>
+       <SongLength ms="2528705">42:08</SongLength>
+       <Bitrate>34821</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\Luke\18 Luke 7_36-50 1.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_582">
+       <Title>Luke 8:1-15</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_90">Luke</ContainedInAlbum>
+       <SongLength ms="2706860">45:06</SongLength>
+       <Bitrate>34856</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\Luke\19 Luke 8_1-15 1.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_583">
+       <Title>Luke 8:16-25</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_90">Luke</ContainedInAlbum>
+       <SongLength ms="2567418">42:47</SongLength>
+       <Bitrate>34941</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\Luke\20 Luke 8_16-25 1.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_584">
+       <Title>Luke 8:26-40</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_90">Luke</ContainedInAlbum>
+       <SongLength ms="2610050">43:30</SongLength>
+       <Bitrate>34944</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\Luke\21 Luke 8_26-40 1.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_585">
+       <Title>Luke 8:41-56</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_90">Luke</ContainedInAlbum>
+       <SongLength ms="2473534">41:13</SongLength>
+       <Bitrate>34866</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\Luke\22 Luke 8_41-56 1.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_586">
+       <Title>Luke 9:1-17</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_90">Luke</ContainedInAlbum>
+       <SongLength ms="2529436">42:09</SongLength>
+       <Bitrate>34868</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\Luke\23 Luke 9_1-17 1.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_587">
+       <Title>Luke 9:18-26</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_90">Luke</ContainedInAlbum>
+       <SongLength ms="2547095">42:27</SongLength>
+       <Bitrate>34981</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\Luke\24 Luke 9_18-26 1.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_588">
+       <Title>Luke 9:27-36</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_90">Luke</ContainedInAlbum>
+       <SongLength ms="2463085">41:03</SongLength>
+       <Bitrate>34860</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\Luke\25 Luke 9_27-36 1.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_589">
+       <Title>Luke 9:37-45</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_90">Luke</ContainedInAlbum>
+       <SongLength ms="2489155">41:29</SongLength>
+       <Bitrate>35092</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\Luke\26 Luke 9_37-45 1.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_590">
+       <Title>Luke 9:46-62</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_90">Luke</ContainedInAlbum>
+       <SongLength ms="2779898">46:19</SongLength>
+       <Bitrate>35182</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\Luke\27 Luke 9_46-62 1.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_591">
+       <Title>Luke 10:1-24</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_90">Luke</ContainedInAlbum>
+       <SongLength ms="2385188">39:45</SongLength>
+       <Bitrate>35153</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\Luke\28 Luke 10_1-24 1.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_592">
+       <Title>Luke 10:25-37</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_90">Luke</ContainedInAlbum>
+       <SongLength ms="2604355">43:24</SongLength>
+       <Bitrate>35313</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\Luke\29 Luke 10_25-37 1.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_593">
+       <Title>Luke 10:38-42</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_90">Luke</ContainedInAlbum>
+       <SongLength ms="2482729">41:22</SongLength>
+       <Bitrate>35131</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\Luke\30 Luke 10_38-42 1.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_594">
+       <Title>Luke 11:1-2a</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_90">Luke</ContainedInAlbum>
+       <SongLength ms="2443807">40:43</SongLength>
+       <Bitrate>35090</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\Luke\31 Luke 11_1-2a 1.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_595">
+       <Title>Luke 11:2b-3</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_90">Luke</ContainedInAlbum>
+       <SongLength ms="2692963">44:52</SongLength>
+       <Bitrate>34986</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\Luke\32 Luke 11_2b-3 1.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_596">
+       <Title>Luke 11:4</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_90">Luke</ContainedInAlbum>
+       <SongLength ms="2752470">45:52</SongLength>
+       <Bitrate>35294</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\Luke\33 Luke 11_4 1.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_597">
+       <Title>Luke 11:5-13</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_90">Luke</ContainedInAlbum>
+       <SongLength ms="2478080">41:18</SongLength>
+       <Bitrate>34953</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\Luke\34 Luke 11_5-13 1.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_598">
+       <Title>Luke 11:14-26</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_90">Luke</ContainedInAlbum>
+       <SongLength ms="2551536">42:31</SongLength>
+       <Bitrate>35233</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\Luke\35 Luke 11_14-26 1.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_599">
+       <Title>Luke 11:27-36</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_90">Luke</ContainedInAlbum>
+       <SongLength ms="2518151">41:58</SongLength>
+       <Bitrate>35126</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\Luke\36 Luke 11_27-36 1.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_600">
+       <Title>Luke 11:37-54</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_90">Luke</ContainedInAlbum>
+       <SongLength ms="2675356">44:35</SongLength>
+       <Bitrate>35052</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\Luke\37 Luke 11_37-54 1.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_601">
+       <Title>Luke 12:1-12</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_90">Luke</ContainedInAlbum>
+       <SongLength ms="2599967">43:19</SongLength>
+       <Bitrate>35037</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\Luke\38 Luke 12_1-12 1.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_602">
+       <Title>Luke 12:13-34</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_90">Luke</ContainedInAlbum>
+       <SongLength ms="2396786">39:56</SongLength>
+       <Bitrate>34920</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\Luke\39 Luke 12_13-34 1.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_603">
+       <Title>Luke 12:35-59</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_90">Luke</ContainedInAlbum>
+       <SongLength ms="2542968">42:22</SongLength>
+       <Bitrate>35175</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\Luke\40 Luke 12_35-59 1.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_604">
+       <Title>Luke 13:1-17</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_90">Luke</ContainedInAlbum>
+       <SongLength ms="2505508">41:45</SongLength>
+       <Bitrate>35166</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\Luke\41 Luke 13_1-17 1.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_605">
+       <Title>Luke 13:18-35</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_90">Luke</ContainedInAlbum>
+       <SongLength ms="2655346">44:15</SongLength>
+       <Bitrate>35083</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\Luke\42 Luke 13_18-35 1.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_606">
+       <Title>Luke 14:1-14</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_90">Luke</ContainedInAlbum>
+       <SongLength ms="2535862">42:15</SongLength>
+       <Bitrate>35158</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\Luke\43 Luke 14_1-14 1.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_607">
+       <Title>Luke 14:15-35</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_90">Luke</ContainedInAlbum>
+       <SongLength ms="2382262">39:42</SongLength>
+       <Bitrate>35092</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\Luke\44 Luke 14_15-35 1.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_608">
+       <Title>Luke 15:1-10</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_90">Luke</ContainedInAlbum>
+       <SongLength ms="2426305">40:26</SongLength>
+       <Bitrate>35078</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\Luke\45 Luke 15_1-10 1.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_609">
+       <Title>Luke 15:11-32</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_90">Luke</ContainedInAlbum>
+       <SongLength ms="2566739">42:46</SongLength>
+       <Bitrate>34844</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\Luke\46 Luke 15_11-32 1.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_610">
+       <Title>Luke 16:1-18</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_90">Luke</ContainedInAlbum>
+       <SongLength ms="2606132">43:26</SongLength>
+       <Bitrate>35020</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\Luke\47 Luke 16_1-18 1.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_611">
+       <Title>Luke 16:19-31</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_90">Luke</ContainedInAlbum>
+       <SongLength ms="2628754">43:48</SongLength>
+       <Bitrate>35069</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\Luke\48 Luke 16_19-31 1.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_612">
+       <Title>Luke 17:1-19</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_90">Luke</ContainedInAlbum>
+       <SongLength ms="2849332">47:29</SongLength>
+       <Bitrate>35036</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\Luke\49 Luke 17_1-19 1.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_613">
+       <Title>Luke 17:20-37</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_90">Luke</ContainedInAlbum>
+       <SongLength ms="2633195">43:53</SongLength>
+       <Bitrate>35138</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\Luke\50 Luke 17_20-37 1.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_614">
+       <Title>Luke 18:1-14</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_90">Luke</ContainedInAlbum>
+       <SongLength ms="2675304">44:35</SongLength>
+       <Bitrate>35249</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\Luke\51 Luke 18_1-14 1.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_615">
+       <Title>Luke 18:15-30</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_90">Luke</ContainedInAlbum>
+       <SongLength ms="2557648">42:37</SongLength>
+       <Bitrate>35089</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\Luke\52 Luke 18_15-30 1.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_616">
+       <Title>Luke 18:31-43</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_90">Luke</ContainedInAlbum>
+       <SongLength ms="2511725">41:51</SongLength>
+       <Bitrate>35126</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\Luke\53 Luke 18_31-43 1.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_617">
+       <Title>Luke 19:1-10</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_90">Luke</ContainedInAlbum>
+       <SongLength ms="2338429">38:58</SongLength>
+       <Bitrate>35195</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\Luke\54 Luke 19_1-10 1.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_618">
+       <Title>Luke 19:11-27</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_90">Luke</ContainedInAlbum>
+       <SongLength ms="2538318">42:18</SongLength>
+       <Bitrate>35190</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\Luke\55 Luke 19_11-27 1.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_619">
+       <Title>Luke 19:28-40</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_90">Luke</ContainedInAlbum>
+       <SongLength ms="2777286">46:17</SongLength>
+       <Bitrate>35168</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\Luke\56 Luke 19_28-40 1.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_620">
+       <Title>Luke 19:41-48</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_90">Luke</ContainedInAlbum>
+       <SongLength ms="2449867">40:49</SongLength>
+       <Bitrate>35112</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\Luke\57 Luke 19_41-48 1.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_621">
+       <Title>Luke 20:1-20</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_90">Luke</ContainedInAlbum>
+       <SongLength ms="2618305">43:38</SongLength>
+       <Bitrate>34997</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\Luke\58 Luke 20_1-20 1.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_622">
+       <Title>Luke 20:21-47</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_90">Luke</ContainedInAlbum>
+       <SongLength ms="2361730">39:21</SongLength>
+       <Bitrate>35015</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\Luke\59 Luke 20_21-47 1.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_623">
+       <Title>Luke 21:1-19</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_90">Luke</ContainedInAlbum>
+       <SongLength ms="2714122">45:14</SongLength>
+       <Bitrate>35055</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\Luke\60 Luke 21_1-19 1.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_624">
+       <Title>Luke 21:20-38</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_90">Luke</ContainedInAlbum>
+       <SongLength ms="2783817">46:23</SongLength>
+       <Bitrate>35414</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\Luke\61 Luke 21_20-38 1.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_625">
+       <Title>Luke 22:1-20</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_90">Luke</ContainedInAlbum>
+       <SongLength ms="2692545">44:52</SongLength>
+       <Bitrate>34942</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\Luke\62 Luke 22_1-20 1.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_626">
+       <Title>Luke 22:21-38</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_90">Luke</ContainedInAlbum>
+       <SongLength ms="2701792">45:01</SongLength>
+       <Bitrate>35097</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\Luke\63 Luke 22_21-38 1.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_627">
+       <Title>Luke 22:39-53</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_90">Luke</ContainedInAlbum>
+       <SongLength ms="2767830">46:07</SongLength>
+       <Bitrate>35091</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\Luke\64 Luke 22_39-53 1.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_628">
+       <Title>Luke 22:54-71</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_90">Luke</ContainedInAlbum>
+       <SongLength ms="2415542">40:15</SongLength>
+       <Bitrate>35124</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\Luke\65 Luke 22_54-71 1.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_629">
+       <Title>Luke 23:1-25</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_90">Luke</ContainedInAlbum>
+       <SongLength ms="2495634">41:35</SongLength>
+       <Bitrate>35044</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\Luke\66 Luke 23_1-25 1.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_630">
+       <Title>Luke 23:26-49</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_90">Luke</ContainedInAlbum>
+       <SongLength ms="2531840">42:11</SongLength>
+       <Bitrate>34798</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\Luke\67 Luke 23_26-49 1.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_631">
+       <Title>Luke 23:50-24:12</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_90">Luke</ContainedInAlbum>
+       <SongLength ms="2566112">42:46</SongLength>
+       <Bitrate>35036</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\Luke\68 Luke 23_50-24_12 1.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_632">
+       <Title>Luke 24:13-35</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_90">Luke</ContainedInAlbum>
+       <SongLength ms="2422386">40:22</SongLength>
+       <Bitrate>34900</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\Luke\69 Luke 24_13-35 1.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_633">
+       <Title>Luke 24:33-53</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_90">Luke</ContainedInAlbum>
+       <SongLength ms="1882592">31:22</SongLength>
+       <Bitrate>34869</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\Luke\70 Luke 24_33-53 1.mp3</Path>
+       </Location>
+    </Song>
+  </Songs>
+</MusicDatabase>

@@ -1,0 +1,115 @@
+<?xml version='1.0'?>
+<MusicDatabase>
+  <Artists>
+    <Artist id="Artist_1">
+       <Name>Ron Hindt</Name>
+    </Artist>
+  </Artists>
+  <Albums>
+    <Album id="Album_58">
+       <PerformingArtist id="0">Ron Hindt</PerformingArtist>
+       <Name>Ezekiel</Name>
+    </Album>
+  </Albums>
+  <Songs>
+    <Song id="Song_341">
+       <Title>Ezekiel 1-5</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_58">Ezekiel</ContainedInAlbum>
+       <SongLength ms="3246602">54:06</SongLength>
+       <Bitrate>35355</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\Ezekiel\01 Ezekiel 1-5.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_342">
+       <Title>Ezekiel 6-11</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_58">Ezekiel</ContainedInAlbum>
+       <SongLength ms="3174713">52:54</SongLength>
+       <Bitrate>35418</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\Ezekiel\02 Ezekiel 6-11.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_343">
+       <Title>Ezekiel 12-15</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_58">Ezekiel</ContainedInAlbum>
+       <SongLength ms="2821903">47:01</SongLength>
+       <Bitrate>35382</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\Ezekiel\03 Ezekiel 12-15.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_344">
+       <Title>Ezekiel 16-19</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_58">Ezekiel</ContainedInAlbum>
+       <SongLength ms="2910093">48:30</SongLength>
+       <Bitrate>34896</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\Ezekiel\04 Ezekiel 16-19.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_345">
+       <Title>Ezekiel 20-23</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_58">Ezekiel</ContainedInAlbum>
+       <SongLength ms="3350360">55:50</SongLength>
+       <Bitrate>34674</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\Ezekiel\05 Ezekiel 20-23.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_346">
+       <Title>Ezekiel 24-29</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_58">Ezekiel</ContainedInAlbum>
+       <SongLength ms="2965159">49:25</SongLength>
+       <Bitrate>34778</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\Ezekiel\06 Ezekiel 24-29.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_347">
+       <Title>Ezekiel 30-35</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_58">Ezekiel</ContainedInAlbum>
+       <SongLength ms="3211441">53:31</SongLength>
+       <Bitrate>34858</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\Ezekiel\07 Ezekiel 30-35.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_348">
+       <Title>Ezekiel 36-39</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_58">Ezekiel</ContainedInAlbum>
+       <SongLength ms="3249946">54:09</SongLength>
+       <Bitrate>35290</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\Ezekiel\08 Ezekiel 36-39.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_349">
+       <Title>Ezekiel 40-48</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_58">Ezekiel</ContainedInAlbum>
+       <SongLength ms="2800222">46:40</SongLength>
+       <Bitrate>35086</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\Ezekiel\09 Ezekiel 40-48.mp3</Path>
+       </Location>
+    </Song>
+  </Songs>
+</MusicDatabase>

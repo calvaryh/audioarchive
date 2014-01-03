@@ -1,0 +1,566 @@
+<?xml version='1.0'?>
+<MusicDatabase>
+  <Artists>
+    <Artist id="Artist_1">
+       <Name>Ron Hindt</Name>
+    </Artist>
+  </Artists>
+  <Albums>
+    <Album id="Album_4">
+       <PerformingArtist id="0">Ron Hindt</PerformingArtist>
+       <Name>1 Corinthians</Name>
+    </Album>
+  </Albums>
+  <Songs>
+    <Song id="Song_5">
+       <Title>1 Corinthians 1:1-3</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_4">1 Corinthians</ContainedInAlbum>
+       <SongLength ms="3038563">50:38</SongLength>
+       <Bitrate>35118</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\1 Corinthians\01 1 Corinthians 1_1-3.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_6">
+       <Title>1 Corinthians 1:4-9</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_4">1 Corinthians</ContainedInAlbum>
+       <SongLength ms="3106533">51:46</SongLength>
+       <Bitrate>34991</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\1 Corinthians\02 1 Corinthians 1_4-9.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_7">
+       <Title>1 Corinthians 1:10-17</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_4">1 Corinthians</ContainedInAlbum>
+       <SongLength ms="3187565">53:07</SongLength>
+       <Bitrate>34929</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\1 Corinthians\03 1 Corinthians 1_10-17.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_8">
+       <Title>1 Corinthians 1:18-25</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_4">1 Corinthians</ContainedInAlbum>
+       <SongLength ms="3188035">53:08</SongLength>
+       <Bitrate>34878</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\1 Corinthians\04 1 Corinthians 1_18-25.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_9">
+       <Title>1 Corinthians 1:26-2:5</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_4">1 Corinthians</ContainedInAlbum>
+       <SongLength ms="2981250">49:41</SongLength>
+       <Bitrate>34766</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\1 Corinthians\05 1 Corinthians 1_26-2_5.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_10">
+       <Title>1 Corinthians 2:6-16</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_4">1 Corinthians</ContainedInAlbum>
+       <SongLength ms="2981564">49:41</SongLength>
+       <Bitrate>34694</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\1 Corinthians\06 1 Corinthians 2_6-16.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_11">
+       <Title>1 Corinthians 3:1-9</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_4">1 Corinthians</ContainedInAlbum>
+       <SongLength ms="3082396">51:22</SongLength>
+       <Bitrate>34650</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\1 Corinthians\07 1 Corinthians 3_1-9.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_12">
+       <Title>1 Corinthians 3:10-17</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_4">1 Corinthians</ContainedInAlbum>
+       <SongLength ms="3148643">52:28</SongLength>
+       <Bitrate>34940</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\1 Corinthians\08 1 Corinthians 3_10-17.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_13">
+       <Title>1 Corinthians 3:18-23</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_4">1 Corinthians</ContainedInAlbum>
+       <SongLength ms="3073149">51:13</SongLength>
+       <Bitrate>34776</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\1 Corinthians\09 1 Corinthians 3_18-23.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_14">
+       <Title>1 Corinthians 4:1-5</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_4">1 Corinthians</ContainedInAlbum>
+       <SongLength ms="2984176">49:44</SongLength>
+       <Bitrate>34805</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\1 Corinthians\10 1 Corinthians 4_1-5.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_15">
+       <Title>1 Corinthians 4:6-13</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_4">1 Corinthians</ContainedInAlbum>
+       <SongLength ms="3040444">50:40</SongLength>
+       <Bitrate>34438</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\1 Corinthians\11 1 Corinthians 4_6-13.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_16">
+       <Title>1 Corinthians 4:14-21</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_4">1 Corinthians</ContainedInAlbum>
+       <SongLength ms="3040026">50:40</SongLength>
+       <Bitrate>34914</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\1 Corinthians\12 1 Corinthians 4_14-21.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_17">
+       <Title>1 Corinthians 5:1-13</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_4">1 Corinthians</ContainedInAlbum>
+       <SongLength ms="3152875">52:32</SongLength>
+       <Bitrate>35024</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\1 Corinthians\13 1 Corinthians 5_1-13.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_18">
+       <Title>1 Corinthians 6:1-11</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_4">1 Corinthians</ContainedInAlbum>
+       <SongLength ms="3129260">52:09</SongLength>
+       <Bitrate>35039</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\1 Corinthians\14 1 Corinthians 6_1-11.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_19">
+       <Title>1 Corinthians 6:12-20</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_4">1 Corinthians</ContainedInAlbum>
+       <SongLength ms="3246706">54:06</SongLength>
+       <Bitrate>34824</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\1 Corinthians\15 1 Corinthians 6_12-20.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_20">
+       <Title>1 Corinthians 7:1-7</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_4">1 Corinthians</ContainedInAlbum>
+       <SongLength ms="3284897">54:44</SongLength>
+       <Bitrate>34351</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\1 Corinthians\16 1 Corinthians 7_1-7 1.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_21">
+       <Title>1 Corinthians 7:8-24</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_4">1 Corinthians</ContainedInAlbum>
+       <SongLength ms="3123722">52:03</SongLength>
+       <Bitrate>34679</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\1 Corinthians\17 1 Corinthians 7_8-24 1.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_22">
+       <Title>1 Corinthians 7:25-40</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_4">1 Corinthians</ContainedInAlbum>
+       <SongLength ms="2821694">47:01</SongLength>
+       <Bitrate>34547</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\1 Corinthians\18 1 Corinthians 7_25-40 1.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_23">
+       <Title>1 Corinthians 8:1-13</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_4">1 Corinthians</ContainedInAlbum>
+       <SongLength ms="2774674">46:14</SongLength>
+       <Bitrate>35239</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\1 Corinthians\19 1 Corinthians 8_1-13.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_24">
+       <Title>1 Corinthians 9:1-14</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_4">1 Corinthians</ContainedInAlbum>
+       <SongLength ms="2920698">48:40</SongLength>
+       <Bitrate>35031</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\1 Corinthians\20 1 Corinthians 9_1-14.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_25">
+       <Title>1 Corinthians 9:15-27</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_4">1 Corinthians</ContainedInAlbum>
+       <SongLength ms="3106324">51:46</SongLength>
+       <Bitrate>35036</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\1 Corinthians\21 1 Corinthians 9_15-27.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_27">
+       <Title>1 Corinthians 10:14-22</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_4">1 Corinthians</ContainedInAlbum>
+       <SongLength ms="2852675">47:32</SongLength>
+       <Bitrate>34597</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\1 Corinthians\22 1 Corinthians 10_14-22.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_26">
+       <Title>1 Corinthians 10:1-7</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_4">1 Corinthians</ContainedInAlbum>
+       <SongLength ms="2977488">49:37</SongLength>
+       <Bitrate>34765</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\1 Corinthians\22 1 Corinthians 10_1-7.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_28">
+       <Title>1 Corinthians 10:8-13</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_4">1 Corinthians</ContainedInAlbum>
+       <SongLength ms="2747715">45:47</SongLength>
+       <Bitrate>34842</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\1 Corinthians\23 1 Corinthians 10_8-13.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_29">
+       <Title>1 Corinthians 10:23-11:1</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_4">1 Corinthians</ContainedInAlbum>
+       <SongLength ms="2666736">44:26</SongLength>
+       <Bitrate>34700</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\1 Corinthians\25 1 Corinthians 10_23-11_1.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_30">
+       <Title>1 Corinthians 11:2-16</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_4">1 Corinthians</ContainedInAlbum>
+       <SongLength ms="2871797">47:51</SongLength>
+       <Bitrate>34438</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\1 Corinthians\26 1 Corinthians 11_2-16.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_31">
+       <Title>1 Corinthians 11:17-34</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_4">1 Corinthians</ContainedInAlbum>
+       <SongLength ms="2688417">44:48</SongLength>
+       <Bitrate>34838</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\1 Corinthians\27 1 Corinthians 11_17-34.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_32">
+       <Title>1 Corinthians 12:1-7</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_4">1 Corinthians</ContainedInAlbum>
+       <SongLength ms="3049221">50:49</SongLength>
+       <Bitrate>34512</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\1 Corinthians\28 1 Corinthians 12_1-7.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_33">
+       <Title>1 Corinthians 12:8-9a</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_4">1 Corinthians</ContainedInAlbum>
+       <SongLength ms="3209769">53:29</SongLength>
+       <Bitrate>34868</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\1 Corinthians\29 1 Corinthians 12_8-9a.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_34">
+       <Title>1 Corinthians 12:9b</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_4">1 Corinthians</ContainedInAlbum>
+       <SongLength ms="2936737">48:56</SongLength>
+       <Bitrate>35050</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\1 Corinthians\30 1 Corinthians 12_9b.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_35">
+       <Title>1 Corinthians 12:10a</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_4">1 Corinthians</ContainedInAlbum>
+       <SongLength ms="2794004">46:34</SongLength>
+       <Bitrate>35211</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\1 Corinthians\31 1 Corinthians 12_10a.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_36">
+       <Title>1 Corinthians 12:10c</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_4">1 Corinthians</ContainedInAlbum>
+       <SongLength ms="3111706">51:51</SongLength>
+       <Bitrate>35034</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\1 Corinthians\32 1 Corinthians 12_10c.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_37">
+       <Title>1 Corinthians 12:10b</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_4">1 Corinthians</ContainedInAlbum>
+       <SongLength ms="2895255">48:15</SongLength>
+       <Bitrate>35116</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\1 Corinthians\33 1 Corinthians 12_10b.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_38">
+       <Title>1 Corinthians 12:10d</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_4">1 Corinthians</ContainedInAlbum>
+       <SongLength ms="2999536">49:59</SongLength>
+       <Bitrate>35302</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\1 Corinthians\34 1 Corinthians 12_10d.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_39">
+       <Title>1 Corinthians 12:11-31</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_4">1 Corinthians</ContainedInAlbum>
+       <SongLength ms="2884075">48:04</SongLength>
+       <Bitrate>34880</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\1 Corinthians\35 1 Corinthians 12_11-31.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_40">
+       <Title>1 Corinthians 13:1-3</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_4">1 Corinthians</ContainedInAlbum>
+       <SongLength ms="2570083">42:50</SongLength>
+       <Bitrate>35215</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\1 Corinthians\36 1 Corinthians 13_1-3.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_41">
+       <Title>1 Corinthians 13:4</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_4">1 Corinthians</ContainedInAlbum>
+       <SongLength ms="2420976">40:20</SongLength>
+       <Bitrate>35064</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\1 Corinthians\37 1 Corinthians 13_4.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_42">
+       <Title>1 Corinthians 13:5</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_4">1 Corinthians</ContainedInAlbum>
+       <SongLength ms="2574889">42:54</SongLength>
+       <Bitrate>35209</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\1 Corinthians\38 1 Corinthians 13_5.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_43">
+       <Title>1 Corinthians 13:6</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_4">1 Corinthians</ContainedInAlbum>
+       <SongLength ms="2592339">43:12</SongLength>
+       <Bitrate>35309</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\1 Corinthians\39 1 Corinthians 13_6.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_44">
+       <Title>1 Corinthians 13:7</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_4">1 Corinthians</ContainedInAlbum>
+       <SongLength ms="2507911">41:47</SongLength>
+       <Bitrate>35155</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\1 Corinthians\40 1 Corinthians 13_7.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_45">
+       <Title>1 Corinthians 13:8-13</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_4">1 Corinthians</ContainedInAlbum>
+       <SongLength ms="2525727">42:05</SongLength>
+       <Bitrate>35098</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\1 Corinthians\41 1 Corinthians 13_8-13.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_46">
+       <Title>1 Corinthians 14:1-40</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_4">1 Corinthians</ContainedInAlbum>
+       <SongLength ms="3067350">51:07</SongLength>
+       <Bitrate>35005</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\1 Corinthians\42 1 Corinthians 14_1-40.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_47">
+       <Title>1 Corinthians 15:1-11</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_4">1 Corinthians</ContainedInAlbum>
+       <SongLength ms="2686380">44:46</SongLength>
+       <Bitrate>34752</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\1 Corinthians\43 1 Corinthians 15_1-11.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_48">
+       <Title>1 Corinthians 15:12-19</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_4">1 Corinthians</ContainedInAlbum>
+       <SongLength ms="2785332">46:25</SongLength>
+       <Bitrate>34767</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\1 Corinthians\44 1 Corinthians 15_12-19.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_49">
+       <Title>1 Corinthians 15:20-28</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_4">1 Corinthians</ContainedInAlbum>
+       <SongLength ms="2905129">48:25</SongLength>
+       <Bitrate>34874</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\1 Corinthians\45 1 Corinthians 15_20-28.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_50">
+       <Title>1 Corinthians 15:29-34</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_4">1 Corinthians</ContainedInAlbum>
+       <SongLength ms="2728071">45:28</SongLength>
+       <Bitrate>34963</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\1 Corinthians\46 1 Corinthians 15_29-34.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_51">
+       <Title>1 Corinthians 15:39-49</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_4">1 Corinthians</ContainedInAlbum>
+       <SongLength ms="2822373">47:02</SongLength>
+       <Bitrate>35216</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\1 Corinthians\47 1 Corinthians 15_39-49.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_52">
+       <Title>1 Corinthians 15:50-58</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_4">1 Corinthians</ContainedInAlbum>
+       <SongLength ms="2949537">49:09</SongLength>
+       <Bitrate>34949</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\1 Corinthians\48 1 Corinthians 15_50-58.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_53">
+       <Title>1 Corinthians 16:1-12</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_4">1 Corinthians</ContainedInAlbum>
+       <SongLength ms="2913959">48:33</SongLength>
+       <Bitrate>35249</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\1 Corinthians\49 1 Corinthians 16_1-12.mp3</Path>
+       </Location>
+    </Song>
+    <Song id="Song_54">
+       <Title>1 Corinthians 16:13-24</Title>
+       <PerformingArtist id="Artist_0">Ron Hindt</PerformingArtist>
+       <ContainedInAlbum id="Album_4">1 Corinthians</ContainedInAlbum>
+       <SongLength ms="2984228">49:44</SongLength>
+       <Bitrate>35237</Bitrate>
+       <Location>
+         <Media id="Media_4" sn="-2041643488"></Media>
+         <Path>media\1 Corinthians\50 1 Corinthians 16_13-24.mp3</Path>
+       </Location>
+    </Song>
+  </Songs>
+</MusicDatabase>
