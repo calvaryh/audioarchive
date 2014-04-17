@@ -393,8 +393,8 @@ function ShowBookList(url, options) {
                 var title = $(this).find('title').text();
                 var path = $(this).find('path').text();
                 var imagepath = $(this).find('imagepath').text();
-                //var longdesc = $(this).find('longdesc').text();
-                var longdesc = '';
+                var longdesc = $(this).find('longdesc').text();
+                //var longdesc = '';
                 var shelfname = $(this).find('shelfname').text();
                 var messagecount = $(this).find('messagecount').text();
                 //$('<div class="items" id="link_' + id + '"></div>').html('<a href="' + url + '">' + title + '</a>').appendTo('#page-wrap');
@@ -429,8 +429,8 @@ function loadBooks() {
                 var title = $(this).find('title').text();
                 var path = $(this).find('path').text();
                 var imagepath = $(this).find('imagepath').text();
-                // var longdesc = $(this).find('longdesc').text();
-                var longdesc = "";
+                var longdesc = $(this).find('longdesc').text();
+               // var longdesc = "";
                 var shelfname = $(this).find('shelfname').text();
                 var messagecount = $(this).find('messagecount').text();
                 //$('<div class="items" id="link_' + id + '"></div>').html('<a href="' + url + '">' + title + '</a>').appendTo('#page-wrap');
